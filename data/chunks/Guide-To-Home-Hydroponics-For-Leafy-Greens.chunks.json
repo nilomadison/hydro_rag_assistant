@@ -1,0 +1,1418 @@
+[
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 0,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n[Ryan Ronzoni rjr293@cornell.edu](mailto:rjr293@cornell.edu)\n\n[Neil Mattson neil.mattson@cornell.edu](mailto:neil.mattson@cornell.edu)\n\nMay, 2020\n\n© Ryan Ronzoni 2020\n\nObjectives\n\nIn recent years, hydroponic facilities have become more common, and more research is\n\nbeing done towards better understanding of hydroponic techniques. Research is ongoing in\n\nlighting, system design, and energy management, all with the goal of producing more crops with",
+    "char_count": 506
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 1,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmanagement, all with the goal of producing more crops with less input. There is however, less research and material to be found on information for the home\n\ngrower.\n\nJust as commercial hydroponic facilities are becoming more popular, so are home\n\nsystems. There are several companies that offer hydroponic kits for home use, and many people\n\nchoose to build their own systems. For a home grower to find information about how to grow\n\ncrops hydroponically they often have to search through hobby websites, university extension",
+    "char_count": 581
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 2,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nhave to search through hobby websites, university extension websites, and youtube. There is certainly good information out there, however it is difficult to\n\nfind all the information in one spot. In addition, there are some sites that can have misleading or\n\nwrong information, and not all home growers may be aware of this.\n\nThis guide has two goals. 1) To provide a single source of information on home level\n\nhydroponics and 2) to show data from experiments done to help a grower decide what systems,",
+    "char_count": 559
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 3,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nfrom experiments done to help a grower decide what systems, tactics, and plant care is right for them. Experiments were conducted on head lettuce as a proxy\n\nfor general leafy green growing, and specific experiments were done on lights a home\n\nhydroponic grower might use, the use of fans in hydroponics, and the use and care of fertilizer in\n\nnutrient solutions.\n\nTABLE OF CONTENTS\n\nObjectives………………………………………………………………………………………….ⅰ\n\nTable of Contents………………………………………………………………………………….ⅱ\n\nList of Abbreviations……………………………………………………………………………... ⅴ",
+    "char_count": 595
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 4,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nof Abbreviations……………………………………………………………………………... ⅴ **1.** Introduction……………………………………………………………………………………...1\n\n**2.** Lighting………………………………………………………………………………………….2\n\n**2.1** Lighting Calculations………………………………………………………………….7\n\n**2.1.1** DLI and Run Time…………………………………………………………..7\n\n**2.1.2** Light Height and Area Lit……………………………………………….......9\n\n**2.1.3** Lights Without Specified PPFD……………………………………………..9\n\n**2.2** Electrical Calculations……………………………………………………………….10\n\n**2.3** Case Study…………………………………………………………………………....11\n\n**2.3.1** Fans………………………………………………………………………...17",
+    "char_count": 612
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 5,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nFans………………………………………………………………………...17 **2.4** Lighting Quick Guide………………………………………………………………..19\n\n**3.** Nutrient Solution……………………………………………………………………………….21\n\n**3.1** pH………………………………………………………………………………….....21\n\n**3.2** Electrical Conductivity……………………………………………………………....23\n\n**3.3** Oxygenation………………………………………………....…………………….....24\n\n**3.4** Mixing a Solution……………………………………………………………………25\n\n**3.4.1** Reading a Liquid Fertilizer Label and Making Custom a Mix…………….26\n\n**3.4.2** Reading a Powder Fertilizer Label and Making a Custom Mix…………...30",
+    "char_count": 588
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 6,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\na Powder Fertilizer Label and Making a Custom Mix…………...30 **3.5** Organic Fertilizers…………………………………………………………………...31\n\n**3.6** Conventional Fertilizers……………………………………………………………...32\n\n**3.7** Case Study (Organic vs Conventional and Different Levels of Care).........................32\n\n**3.8** Fertilizer Quick Guide……………………………………………………………….39\n\n**4.** Seed Starting…………………………………………………………………………………...41\n\n**4.1** Seed Starting Quick Guide…………………………………………………………...44",
+    "char_count": 515
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 7,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nSeed Starting Quick Guide…………………………………………………………...44 **5.** Deep Water Culture (DWC)........................................................................................................45\n\n**5.1** Kits…………………………………………………………………………………...45\n\n**5.2** DIY Materials………………………………………………………………………..46\n\n**5.3** DIY Construction…………………………………………………………………….47\n\n**5.4** Mechanical Maintenance/Troubleshooting…………………………………………..51\n\n**5.5** DWC Quick Guide…………………………………………………………………...51\n\n**6.** Nutrient Film Technique (NFT) Systems……………………………………………………...52",
+    "char_count": 599
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 8,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nNutrient Film Technique (NFT) Systems……………………………………………………...52 **6.1** Kits…………………………………………………………………………………...53\n\n**6.2** DIY Materials………………………………………………………………………..53\n\n**6.3** DIY Construction…………………………………………………………………….56\n\n**6.4** Mechanical Maintenance/Troubleshooting…………………………………………..58\n\n**6.5** NFT Quick Guide…………………………………………………………………....58\n\n**7.** Nutrient Film Technique vs Deep Water Culture……………………………………………....60\n\n**8.** Useful Equipment……………………………………………………………………………...60\n\n**9.** Total System Cost Examples and Crop Costing……………………………………………….61",
+    "char_count": 609
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 9,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nSystem Cost Examples and Crop Costing……………………………………………….61 **10.** Diseases, Insects, and other Disorders………………………………………………………..69\n\n**10.1** Common Diseases…………………………………………………………………..70\n\n**10.2** Pathogen Control Methods………………………………………………………....73\n\n**10.3** Common Pests……………………………………………………………………...74\n\n**10.4** Pest Control Methods……………………………………………………………….75\n\n**10.5** Physiological Disorders…………………………………………………………….75\n\n**10.6** Nutrient Deficiencies……………………………………………………………….78\n\nReferences………………………………………………………………………………………..81",
+    "char_count": 583
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 10,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n……………………………….78\n\nReferences………………………………………………………………………………………..81 Image References………………………………………………………………………………...84\n\nTable References………………………………………………………………………………....89\n\nFigure References………………………………………………………………………………..90\n\nLIST OF ABBREVIATIONS\n\nCEA Controlled Environment Agriculture\n\nDLI Daily Light Integral\n\nDO Dissolved Oxygen\n\nDWC Deep Water Culture\n\nEC Electrical Conductivity\n\nHID High Intensity Discharge\n\nHPS High Pressure Sodium\n\nLED Light Emitting Diode\n\nMH Metal Halide\n\nMole A quantity referring to 6.02214078 10 ×^23 of something\n\nNFT Nutrient Film Technique",
+    "char_count": 631
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 11,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nto 6.02214078 10 ×^23 of something\n\nNFT Nutrient Film Technique PAR Photosynthetically Active Radiation\n\npH potential for hydrogen\n\nPPFD Photosynthetic Photon Flux Density\n\nPVC Polyvinyl Chloride\n\nSFW Square Foot Week\n\n**1. Introduction**\n\nHydroponics refers to the method of growing plants in soilless media. While we generally\n\nthink about growing crops hydroponically as a new idea, the method has been in use for quite\n\nsome time. Some of the earliest hydroponic like systems were the floating floating gardens of the",
+    "char_count": 577
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 12,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nlike systems were the floating floating gardens of the Aztecs! After that however, there wasn’t much in the way of hydroponics until the early to mid\n\n1800’s when scientists realized that they could grow crops in water if they gave them nutrients\n\n(Resh, 2013). In the early 1900’s, greenhouses started to take interest in hydroponics because\n\nthey were constantly having to replace their soil due to problems with pests, fertility, and soil\n\nstructure (Resh, 2013). Hydroponics started to gain popularity with scientists who used it as a",
+    "char_count": 594
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 13,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nstarted to gain popularity with scientists who used it as a way to perform experiments on plants in a highly controlled manner.\n\nToday, many commercial facilities use hydroponics as a way to grow consistent quality\n\nvegetables year round. The largest operations are in Mexico, Canada, the US, Belgium, and\n\nHolland. The most important hydroponic crops for these operations are tomatoes, lettuce,\n\ncucumbers, and peppers (Resh, 2013).\n\nThe main draw of hydroponics comes from the ability to grow year round, local, and",
+    "char_count": 573
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 14,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ncomes from the ability to grow year round, local, and generally pesticide free produce. In addition, hydroponic farms are able to produce higher yields\n\nof produce when compared to conventional farms due to efficient use of fertilizers directly to the\n\nroot zone and spacing (Resh, 2013). Given that most hydroponic farms are in controlled\n\nenvironments, there is a general lack of pests, pathogens, and weeds which leads to a lower use\n\nof pesticides and herbicides compared to a conventional farm (Resh, 2013) . Controlled",
+    "char_count": 580
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 15,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ncompared to a conventional farm (Resh, 2013) . Controlled environment also allows for more efficient water use than conventional methods (up to 20\n\npercent) (Mattson, 2020). Once on the market, hydroponic vegetables can have a longer shelf life\n\nthan non hydroponic plants, even more so when the roots are still attached.\n\nThe most common systems include deep water culture, nutrient film systems, and\n\nrockwool culture. Nutrient film and Deep Water systems are often used for leafy greens and",
+    "char_count": 549
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 16,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nfilm and Deep Water systems are often used for leafy greens and rockwool culture is often used for vine crops like tomatoes and cucumbers. At the home level,\n\nthe best success is likely to be found with a small deep water culture or nutrient flow technique\n\nsystem.\n\nThis guide aims to give you practical knowledge for maintaining leafy greens in a\n\nhydroponic set up, and to provide information on how to construct your own system. There are\n\n10 sections that include topics such as lighting, nutrient solution, and seed starting. Each section",
+    "char_count": 600
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 17,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nas lighting, nutrient solution, and seed starting. Each section includes a detailed discussion on the different aspects of the topic that would be useful for a\n\nhome grower to know. At the end of each section there is a “quick guide” which aims to both\n\nrecap the main points of the section and to provide easy steps to follow without having to read\n\nthe entire section. Furthermore, I have detailed several experiments conducted at Cornell to help\n\nvisualize and answer some common questions about plant lighting and nutrition in a home\n\nhydroponic setting.\n\n**2. Lighting**",
+    "char_count": 631
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 18,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nand nutrition in a home\n\nhydroponic setting.\n\n**2. Lighting** Lighting may be one of the most important aspects when it comes to setting up your\n\nhydroponic system. Light is the main driver of plant growth, and controls a plethora of plant\n\nfunctions such as germination, flowering, pigmentation, biomass accumulation, and of course\n\nphotosynthesis (Peacock, 2015). When it comes to lighting your system, there are a few\n\nimportant factors to consider. The first is light quantity.\n\nLight quantity refers to how much light the plant is receiving. Overall plants require",
+    "char_count": 625
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 19,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nhow much light the plant is receiving. Overall plants require much more light than humans do for vision (perhaps 20 times more to get decent photosynthesis\n\nof leafy greens). For plants we use a different unit for measuring light than for humans (in which\n\nwe can talk about light in lumens or footcandles). For plants we consider all light between the\n\nwavelengths of 400 to 700 nanometers (basically all the colors from blue to red in the rainbow).\n\nWe call this range of light Photosynthetically Active Radiation, or PAR for short. These are the",
+    "char_count": 604
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 20,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nActive Radiation, or PAR for short. These are the wavelengths that are the drivers of photosynthesis.\n\n**Figure 1. Light perceived by humans and plants**\n\nWe measure this light by the amount of photons (the smallest particle of light) passing\n\nthrough a square meter every second. This is known as the photosynthetic photon flux density\n\n(PPFD) and the preferred units are micromoles per square meter per second (umol m^-2 s^-1 ). If you\n\nwere to measure the total number of light particles hitting a square meter for the entire day you",
+    "char_count": 592
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 21,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nlight particles hitting a square meter for the entire day you get what is known as the Daily Light Integral, or DLI. The DLI is the total amount of light\n\nreceived per day and the prefered units are moles of light per square meter per day (mol m^-2\n\nday^-1 ). Notice that we look at moles, not micromoles, when it comes to the DLI. This is because\n\nif you were to measure micromoles per day you would have an extremely large number as there\n\nare 1 million micromoles per mole, and 3600 seconds per hour. For more helpful information",
+    "char_count": 588
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 22,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmole, and 3600 seconds per hour. For more helpful information [check out https://extension.unh.edu/resource/growing-seedlings-under-lights-fact-sheet (Ebba,](https://extension.unh.edu/resource/growing-seedlings-under-lights-fact-sheet)\n\n2020).\n\nFor leafy greens, we generally want 12-17 moles of light per day, or about 12 watts of\n\nelectricity from a lighting fixture per square foot of growing area if information about DLI is not\n\navailable (Mattson, 2017). When all else fails, just look at the plants. If they look stretched and",
+    "char_count": 589
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 23,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nelse fails, just look at the plants. If they look stretched and thin, then you need more light (either more intensity or longer duration of lights turned on). Too\n\nmuch light will generally show itself in the form of tip burn (see “physiological disorders”\n\nsection).\n\nAnother important factor is light quality. Light quality refers to the wavelengths of light.\n\nIt is known that certain wavelengths can have different effects on plant growth. For example, far\n\nred light tends to stretch plants, and blue light tends to cause shorter and stockier plants",
+    "char_count": 610
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 24,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nand blue light tends to cause shorter and stockier plants (Mattson, 2017). Other wavelengths can induce secondary compounds in plants (Peacock, 2015).\n\nAnd yes, plants do use greenlight for photosynthesis! However, for the purpose of home\n\nhydroponics, almost any light will do as long as it can provide the correct quantity of light. In\n\nfact, for general purposes, plants tend to grow best under light conditions similar to the sun and\n\nyou won’t see major benefits of one spectra over another. LED lights will often make claims",
+    "char_count": 586
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 25,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nof one spectra over another. LED lights will often make claims about how they have the best spectra for growing vegetables, however the main reason you\n\nwould choose an LED light is its efficiency (the amount of PAR it can generate per unit of\n\nelectricity) not its spectra.\n\nThree major types of horticultural lights include High Intensity Discharge (HID) lights\n\n(including High Pressure Sodium [HPS] and Metal Halide [MH] lights), Fluorescent lights (T5\n\nare the newest fluorescents that are most common), and Light Emitting Diodes (LED). Many",
+    "char_count": 602
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 26,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthat are most common), and Light Emitting Diodes (LED). Many commercial growers use High Intensity Discharge lights in greenhouses, and will often have\n\nlarge lamps that are each 1000W. These lights generally have good efficiency when it comes to\n\nlight output for the electricity used, and have a characteristic peak of intensity in the far-red part\n\nof the spectrum.\n\n**Figure 2. Spectral Output of HPS and MH lights**\n\nLEDs have become more common in commercial growing settings as efficiency keeps",
+    "char_count": 557
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 27,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmore common in commercial growing settings as efficiency keeps getting better and better (Both et. al, 2017). Some LEDs even allow you to control the specific\n\nwaveband (colors) or the light intensity if you desire. There are many types of LED lights out\n\nthere including panel lights, bar lights, and point source lights (used to replace High Intensity\n\nDischarge Lights). The main reason for a home grower to use an LED light would be the cost\n\n(when compared to an HID light) and their electrical efficiency.\n\n**Figure 3. Examples of LED spectral outputs**",
+    "char_count": 615
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 28,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nefficiency.\n\n**Figure 3. Examples of LED spectral outputs** T5 fluorescent lights are often used for seed starting in commercial operations, but can\n\nalso be used as the major light source in a home setting. In fact, some might consider them to be\n\nthe workhorse of home scale grow lighting. They tend to have good efficiency and have a pretty\n\nbroad spectrum output. However they generally don’t produce as much light as a HID or LED\n\nfixture would. They look white to our eyes, but have peaks in blue, green, and red light.\n\n**Figure 4. T5 Fluorescent spectral output**",
+    "char_count": 627
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 29,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nand red light.\n\n**Figure 4. T5 Fluorescent spectral output** How do these light factors relate to home hydroponics? They will help guide you in\n\ndetermining the type of light to use, the height at which to hang it, and the amount of time to\n\nleave the light on per day. Spectra will most likely be determined by the type of light you use,\n\nand quantity will be determined by a combination of the type of light, height it is hung, and\n\nduration it is kept on.\n\n**2.1 Lighting Calculations**",
+    "char_count": 545
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 30,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nand\n\nduration it is kept on.\n\n**2.1 Lighting Calculations** Now that we have discussed the different aspects of light and how they relate to growing\n\nplants, let’s do some actual calculations to estimate the height at which to hang lights, and how\n\nlong to keep them running. If you don’t enjoy calculations, or wish to spend your time just\n\ngrowing - you can jump directly to the lighting quick guide. However, if you wish to learn more\n\ndetails about lighting plants - read on!\n\n**2.1.1 DLI and Run Time**",
+    "char_count": 563
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 31,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nabout lighting plants - read on!\n\n**2.1.1 DLI and Run Time** First, let’s discuss calculations for Daily Light Integral (DLI) and light run time.\n\nExample: Let’s say you have a light that you know produces 200 µmol·m^-2 ·s^-1 (PPFD) of light at\n\nplant canopy when hung at 15 inches above plants. You want to know the DLI if you run your\n\nlight for 24 hours. To determine the Daily Light Integral (DLI) you will want to use this\n\nequation:\n\n_DLI_ =\n\n_PPFD_ × 3,600 _hourseconds_ × _run_ _time_ ( _in_ _hours_ ) 1,000,000 _umol_ _mol_\n\nFor our example:\n\n_DLI_ =",
+    "char_count": 615
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 32,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n_hours_ ) 1,000,000 _umol_ _mol_\n\nFor our example:\n\n_DLI_ = _meter_ 200 2 × _umolsecond_ × 3,600 _hourseconds_ × 24 _hours_ 1,000,000 _umol_ _mol_\n\n_DLI_ = _meter_ [17.28 ] 2 - _[mols]_ _day_ = 17.28 mols·m^-2 ·d^-1\n\nIf you already know the micromoles per second at a certain height, and you would like to figure\n\nout how long to run the light based on your desired DLI (mol·m^-2 ·d^-1 ), you can rearrange the\n\nformula so that it looks like this: _Run_ _time_ =\n\n_DLI_ × 1,000,000 _mol_ _umol_\n\n_PPFD_ × 3,600 _hourseconds_",
+    "char_count": 580
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 33,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n=\n\n_DLI_ × 1,000,000 _mol_ _umol_\n\n_PPFD_ × 3,600 _hourseconds_ Example: Let’s say we have the same light with an output of 200 µmol·m^-2 ·s^-1 at crop level when\n\nhung 15 inches above the plant. We know we want 15 mol·m^-2 ·d^-1 of light per day, so to calculate\n\nhow long we need to run the lights we do:\n\n_Run_ _time_ =\n\n_meter_ 15 2 _mol_ - _day_ × 1,000,000 _mol_ _umol_ 20.8 _hours_\n\n200 _umol_ × 3,600 _seconds_ [= ] _day_ _meter_ 2 - _second_ _hour_\n\nOne thing to think about is that plants tend to do better with DLIs spread over a longer",
+    "char_count": 603
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 34,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nis that plants tend to do better with DLIs spread over a longer period of time. For example, lettuce will perform better with 15 moles of light over a time period\n\nof 20 hours compared to 15 moles of light over a time period of 5 hours (Both et. al, 1994).\n\n**2.1.2 Light Height and Area Lit**\n\nDetermining the height at which to hang your light can be a little tricky depending on\n\nwhat information the manufacturer gives you. Horticultural grade lamps might give you\n\ninformation on the light intensity (μmol·m^-2 ·s^-1 [PPFD]) at different heights, and if this",
+    "char_count": 619
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 35,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n(μmol·m^-2 ·s^-1 [PPFD]) at different heights, and if this information is available to you, then it’s quite easy. Choose a height that looks like it gives good\n\ncoverage of all plants and then use the formulas described above to calculate run time based on\n\nthe height you have chosen.\n\nIf you have a commercial grow light, the information you are given could be the total\n\noutput of the light in umol/sec. In this case, the first thing you will want to do is to calculate the",
+    "char_count": 532
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 36,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ncase, the first thing you will want to do is to calculate the area the fixture can light using this equation. _Area_ = _total_ _output_ _desired_ _instantaneous_ _light_\n\nExample: You have a HPS light with a total output of 500 μmol/second. You have a desired\n\ninstantaneous light output of 200 μmol·m^-2 ·s^-1 (the light level at plant canopy) . How much area\n\ncan the fixture light? _Area_ = _desired_ _totalinstantaneousoutput_ _light_ = 200 500 _secondumolumol_ = 2.5 _square_ _meters_\n\n_meter_ 2 - _second_",
+    "char_count": 567
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 37,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n_secondumolumol_ = 2.5 _square_ _meters_\n\n_meter_ 2 - _second_ Now that you know the fixture can light 2.5 square meters, you should adjust the height\n\nso that the area has even light coverage. You can then calculate the run time based on equations\n\npreviously mentioned and your desired instantaneous light output.\n\n**2.1.3 Lights without specified PPFD**\n\nUnfortunately, not all light manufacturers provide the PPFD at certain heights for their\n\nlights. You could use a PAR light meter (often called a quantum sensor), however these can be",
+    "char_count": 597
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 38,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmeter (often called a quantum sensor), however these can be quite expensive ranging anywhere from $300 - $1000+. In the case you are not given PPFD, a\n\ngood estimate to go by is 12 watts of electricity from the light fixture per square foot of growing\n\narea, and then adjust the light to a height that seems to give good coverage of the growing area\n\n(Mattson, 2017).\n\nExample: You have a growing area that is approximately 2ft x 2ft. What is the light\n\nrequirement in watts? We know that 2 ft x 2 ft = 4 sqft, and we know we want 12 watts per",
+    "char_count": 599
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 39,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthat 2 ft x 2 ft = 4 sqft, and we know we want 12 watts per square foot. So all we have to do is multiply 4 _square_ _feet_ × 12 _watts_ 48 _watts_ . This means _square_ _foot_ [= ]\n\nyou want your light, or combination of lights, used for that area to be around 48 watts.\n\nAfter you have chosen a light based on the area you need to light, and a height based on\n\ngood light coverage of that area, the next step is to choose a run time for the light. Again, in the\n\nabsence of PPFD you can’t make exact calculations, but in general, if you follow the 12 W per",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 40,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nexact calculations, but in general, if you follow the 12 W per square foot rule of thumb, to produce enough light for leafy greens, you will want to run T5\n\nfluorescent lights close to 24 hours a day, 150W HPS lights around 16 hours a day, and LED\n\nlights also about 16 hours per day (though LED lights are more variable in their output and\n\nactual values will depend on their output).\n\nThe moral of this story is that grow light manufacturers should report their light output in",
+    "char_count": 535
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 41,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ngrow light manufacturers should report their light output in PPFD (with units of μmol·m^-2 ·s^-1 )! (See [https://doi.org/10.21273/HORTTECH03648-16](https://doi.org/10.21273/HORTTECH03648-16) for more\n\ndetails). To recap, if you don’t have PPFD information your best bet is to aim for 12 watts per\n\nsquare foot, adjust the light height so there is even coverage, and aim anywhere from 15-24\n\nhours a day run time. Use your best judgment based on the look of the plants. If they are tall and",
+    "char_count": 546
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 42,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\njudgment based on the look of the plants. If they are tall and stringy run the lights longer, and if they have tip burn (see physiological disorders) then they are\n\nprobably getting too much light and you should decrease the run time.\n\n**2.2 Electrical Calculations**\n\nElectricity Calculations:\n\nWhen looking at the cost of your system it’s important to think about the electrical cost.\n\nElectricity is generally charged based on Kilowatt hours (kWh). You can use this formula to find",
+    "char_count": 540
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 43,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nbased on Kilowatt hours (kWh). You can use this formula to find your electricity usage, and then multiply your usage by your electricity cost to find the total cost\n\nof any electrical use for the system including lights and pumps.\n\n_Power_ _consumption_ ( _watts_ ) × _number_ _of_ _hours_ _used_ _kWh_ =\n\nExample: You are charged $0.21 per kWh used. You run a 150W HPS light for 15 hours a day\n\nfor 35 days. What is the electric bill charge for that light?\n\n150 _watts_ × 15 _dayhours_ × 35 _days_\n\n= 7\n\n1000 = 78.5 _kWh_",
+    "char_count": 578
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 44,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n_watts_ × 15 _dayhours_ × 35 _days_\n\n= 7\n\n1000 = 78.5 _kWh_ Then multiply the kWh used by the price of electricity $/kWh):\n\n78.5 _kWh_ × $0.21 = $16.54 for the 525 hours you ran the light. _kWh_\n\n**2.3 Case Study**\n\nTo help in the decision to choose a light, I ran some experiments with a range of lights a\n\nhome grower might choose to use. In these experiments I measured the light output at different\n\nheights using a PAR light meter and made calculations for suggested heights and run times. My",
+    "char_count": 553
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 45,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nand made calculations for suggested heights and run times. My results and recommendations are as follows. (Based on a roughly 2 square foot growing area, and\n\ngoal of 15 mol·m^-2 ·d^-1 of light)\n\n**Image 1. PPFD measurements being taken on an LED light with a quantum sensor.**\n\n**Table 1. Light Recommendations for DLI of 15 mol·m** **^-2** **·d** **^-1** **for a 2ft** **^2** **growing area**",
+    "char_count": 450
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 46,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n**^-2** **·d** **^-1** **for a 2ft** **^2** **growing area** |Light Tested|Height above plants<br>(in inches)|Average umol/(m2 •s ) at<br>specified height|Run time (in hours<br>per day)|\n|---|---|---|---|\n|SunSystem 150W<br>HPS|15|270.3|15.5|\n|Durolux 48W T5<br>Fluorescent ****|7|126.3|24|\n|RAB 2X2 40W<br>LED Panel|4|269.7|15.5|\n|iGrowtek 50W<br>(total) LED Bar|6|264.2|15.5|\n|Growstar “50W”<br>LED clip on ****|9|73.8|24|\n|Monios T5 LED|8|260.3|15.5|\n|YGROW LED<br>(“600W HPS<br>equivalent”|18|295.8|14|\n|Aceple LED<br>(“600W HPS<br>equivalent”|18|268.8|15.5|",
+    "char_count": 618
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 47,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nLED<br>(“600W HPS<br>equivalent”|18|268.8|15.5| (****Neither the T5 Fluorescent or the LED clip on could reach 15 mol·m^-2 ·d^-1, DLIs were 10.92 mol·m^-2 ·d^-1 and 6.8 mol·m^-2 ·d^-1 respectively.)\n\nIn another experiment, I grew lettuce under 5 types of lights that home growers are most\n\nlikely to use. The lettuce cultivar Rex Butterhead from Johnny’s Seeds was selected as it is a\n\ngood representative of lettuce that could be grown in a home hydroponic system. The hydroponic",
+    "char_count": 536
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 48,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthat could be grown in a home hydroponic system. The hydroponic systems used were home made deep water culture systems (approximately 2 ft^2 growing area)\n\nthat held 6 plants and could easily be constructed for use at the home level (see the DIY section\n\nunder deep water culture). The lettuce was grown for a 35 day period, with transplanting done on\n\nday 11 and then grown for an additional 24 days in the hydroponic systems under the lights. The\n\npH and EC were kept at 5.6 and 1.4 mmhos/cm (from fertilizer) respectively. The treatments and\n\nresults are as follows.",
+    "char_count": 625
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 49,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nrespectively. The treatments and\n\nresults are as follows. 1) HPS giving 15 mol·m^-2 ·d^-1\n\n2) LED Panel giving 15 mol·m^-2 ·d^-1\n\n3) LED bar giving 15 mol·m^-2 ·d^-1\n\n4) T5 fluorescent giving 10.92 mol·m^-2 ·d^-1 (This was the max output for 24 hours)\n\n5) Led clip on giving 6.8 mol·m^-2 ·d^-1 (This was the max output for 24 hours)\n\na) This clip on light claimed it was a 50W replacement for a 150W HPS light,\n\nhowever it was found to only draw 12W and did not have the output of an HPS.\n\nSo be careful if you are looking at cheap lights that promise great results.",
+    "char_count": 622
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 50,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nif you are looking at cheap lights that promise great results. **Figure 5. Fresh Weight of lettuce based on light treatment (treatments with the same letters**\n**are not significantly different from each other, based on Tukey HSD test with significance**\n**level of 0.05)**\n\n**Figure 6. Biomass efficiency of lights based on 2 ft** **^2** **area (treatments with the same letters**\n**are not significantly different from each other based on Tukey HSD test with significance**\n**level of 0.05)**\n\n**Image 2. HPS treatment Image 3. LED Panel treatment**",
+    "char_count": 607
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 51,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n2. HPS treatment Image 3. LED Panel treatment** **Image 4. LED Bar treatment Image 5. TR Fluorescent Treatment**\n\n**Image 6. LED clip on treatment Image 7. Lettuce heads from LED clip on treatment**\n\nThe HPS was the clear winner when it came to both fresh weights and dry weights (figure\n\n5. However, the LED Panel and LED Bar lights were not too far behind. In addition, the LED\n\nPanel light had a significantly better efficiency in terms of grams of biomass efficiency (i.e. the",
+    "char_count": 536
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 52,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nefficiency in terms of grams of biomass efficiency (i.e. the fresh weight of lettuce produced per kWh of electricity used) than the HPS. The LED Panel and\n\nLED bar both had similar electrical efficiency and both cost less than an HPS fixture - making\n\nthem both fine choices for the home grower. However, almost all of the lights tested would make\n\nfine lights for a home grower. You just have to think about what you are looking to get out of\n\nyour lights(i.e. the highest yield? Or a balance between light cost, electricity use and yield?).",
+    "char_count": 598
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 53,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nOr a balance between light cost, electricity use and yield?). For example, if your goal is to produce as much lettuce as possible (similar to a\n\ncommercial greenhouse grower) than the HPS is the way to go. The downside with the HPS is\n\nthat it is the most expensive, and also will cost the most in terms of electricity use. The 150 W\n\nHPS fixture could have been used to light a bigger space than the 2’ x 2’ area in our experiment\n\nso a solution might be to use the one HPS to light 2 DWC bus bucket systems.",
+    "char_count": 565
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 54,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmight be to use the one HPS to light 2 DWC bus bucket systems. If you would rather save some money (both in initial costs, and electrical costs), knowing\n\nthat it will take a little longer to grow your heads of lettuce to your desired weight (a week more\n\nat most), then finding some sort of lower wattage (when compared to the HPS) LED (but still\n\naiming for the 12 watts per square foot rule of thumb) is the way to go. In addition, many LED\n\nlights will have good light coverage of your growing area (based on their design). I really like",
+    "char_count": 597
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 55,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nof your growing area (based on their design). I really like the panel and bar options because they are a good way to have even distribution of light\n\nthroughout your growing area.\n\nOr maybe you have a smaller system with only one row of crops. In this case, you could\n\nthink about using a T5 Fluorescent light. You won’t have to worry as much about light\n\ndistribution in a smaller system, and hanging the light directly over the crops will provide higher\n\nlight levels than if you were trying to light several rows.",
+    "char_count": 572
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 56,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nlevels than if you were trying to light several rows. Even the little clip on LED (which in our experiment only used 12 W) could have its\n\nplace. Let’s say you are only growing 1 or 2 heads of lettuce, or just a couple small herbs in a\n\none square foot area, then you could put this light directly over them and get good results. In our\n\nexperiment the LED clip on produced the lowest biomass, but because it also used by far the\n\nleast amount of electricity it had the greatest biomass efficiency (grams produced per kWh",
+    "char_count": 577
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 57,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nit had the greatest biomass efficiency (grams produced per kWh electricity). It produced two mediocre heads of lettuce and four thin and stretched heads of\n\nlettuce.\n\n**2.3.1 Fans**\n\nSome airflow to the plants can be used to prevent the environment around the plant\n\nstaying too humid which can promote leaf diseases or the disorder tipburn. Tipburn is a\n\nphysiological disorder (described more in section 10.5) whereby under high light, or high\n\nhumidity, plants can’t take up enough calcium (Mattson and Merril, 2015). In commercial",
+    "char_count": 590
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 58,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nup enough calcium (Mattson and Merril, 2015). In commercial greenhouses the solution is to add more airflow (Both et. al 1994). Therefore, in another\n\nexperiment, I took the highest performing lights, pushed the light output to 17 mol·m^-2 ·d^-1, and\n\nadded a fan into the mix (all other parameters from the previous experiment were kept the same).\n\nI used a small computer fan and mounted it 4 inches above the crop canopy in order to promote\n\nhorizontal airflow above the lettuce. In the case of the LED Panel light, I positioned the fan so",
+    "char_count": 598
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 59,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nIn the case of the LED Panel light, I positioned the fan so that it would blow air in between the light and lettuce (as the Panel was only 4 inches above the\n\nlettuce).\n\n**Image 8. HPS treatment with fan Image 9. LED Panel treatment with fan**\n\nIn general, I found that pushing to 17 mol·m^-2 ·d^-1 in such a small enclosed area caused tip\n\nburn in the lettuce (see image 10 below). Treatments with fans produced lettuce heads with less\n\ntip burn, however the downside of the fan was that it tended to decrease the fresh weight at the",
+    "char_count": 590
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 60,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthe fan was that it tended to decrease the fresh weight at the end of 35 days. However, if you let the lettuce grow a few days longer it should make up the\n\nweight. The treatments and results are as follows.\n\n**Figure 7. Fan vs. no fan treatments. (Treatments with the same letter are not significantly**\n**different from each other, based on Tukey HSD test with significance level of 0.05)**\n\n**Image 10. Lettuce treatments with and without fans**\n\nIn general, treatments with fans had lower fresh weights at the end of the 35 day growing",
+    "char_count": 595
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 61,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nfans had lower fresh weights at the end of the 35 day growing cycle, although the only significant difference in fresh weight occurred in the LED Panel\n\ntreatments. If you really want to push your crops with light levels, a fan will help to decrease tip\n\nburn in lettuce and also promote healthy air flow (good for reducing moisture on leaves).\n\nHowever, as noted, the fan may increase the amount of time you have to grow your plants to get\n\ndesired fresh weights. In that case, it seems that the best option is to just lower light levels (by",
+    "char_count": 598
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 62,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nit seems that the best option is to just lower light levels (by raising up lights a bit) so that tip burn does not occur, and wait a little longer for your plants to\n\nreach desired weights.\n\nThe biggest reason to use a fan would be if you are noticing moisture on leaves. Stagnant\n\nmoisture on leaves is the perfect place for a pathogen to infect your plants so a fan would really\n\ncome in handy there.\n\n**2.4 Lighting Quick Guide**\n\nWhen choosing a light for your system here are some things to think about.",
+    "char_count": 564
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 63,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\na light for your system here are some things to think about. 1. Where you are going to put the light (Does it have a place to hang? Will it fit?)\n\n2. The area you want to light\n\na. If you know the umol/second output of the light use the equation\n\n_total_ _output_ _Area_ _capable_ _of_ _being_ _lit_ = _desired_ _PPFD_\n\nb. If you don’t know the output in umol/second you can use the metric of 12 W per\n\nsquare foot of growing area.\n\nc. The manufacturer may also give an estimate for the area the specific fixture can\n\nlight.\n\n3. The height at which to hang the light",
+    "char_count": 622
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 64,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nfixture can\n\nlight.\n\n3. The height at which to hang the light a. If you know the PPFD at certain heights you can choose a height based on your\n\ndesired PPFD.\n\nb. If you don’t know the PPFD at certain heights, a good idea is to aim for even light\n\ncoverage of the growing area.\n\nc. If you have a similar light to one I mentioned (and you have a similar growing\n\narea) I would recommend a similar height\n\n4. The duration of time to run the light\n\na. If you know PPFD you can use the equation: _Run_ _time_ = _DesiredPPFDDLI_ ×× 3,600 1,000,000 _hoursecondsmol_ _umol_",
+    "char_count": 621
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 65,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n= _DesiredPPFDDLI_ ×× 3,600 1,000,000 _hoursecondsmol_ _umol_ i. A DLI of 12-17 mol·m^-2 ·d^-1 is common for leafy greens\n\nb. Sometimes the manufacturer will give a suggested run time, usually this is pretty\n\naccurate but I would take it as a conservative estimate.\n\nc. If you have a similar light to one I mentioned (and you have a similar growing\n\narea) I would recommend a similar run time .\n\nd. In general, be mindful of your plants. If they look stretched and thin they need\n\nmore light, and if there is noticeable tip burn the light quantity should be scaled\n\nback.",
+    "char_count": 627
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 66,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nnoticeable tip burn the light quantity should be scaled\n\nback. 5. To calculate electrical use and cost use the formulas:\n\na. _kWh_ = _Power_ ( _watts_ ) × _number_ _of_ _hours_ _used_\n\nb. _Cost_ _in_ _dollars_ = _kWh_ × _local_ _electrical_ _cost_ _per_ _kWh_\n\n**3. Nutrient Solution**\n\nThe nutrient solution is the source of essential mineral elements plants need to carry out\n\ncellular functions including growth, photosynthesis, and respiration. There are 14 essential\n\nelements that plants need including 6 macronutrients: Nitrogen, Phosphorus, Potassium, Sulfur,",
+    "char_count": 623
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 67,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n6 macronutrients: Nitrogen, Phosphorus, Potassium, Sulfur, Calcium and Magnesium; and 8 micronutrients: Iron, manganese, zinc, boron, copper,\n\nmolybdenum, chloride and nickel (Mattson and Peters, 2014). Micronutrients are just as\n\nimportant to the plant as macronutrients, they just aren’t needed in the same quantity. There are\n\nmany hydroponic fertilizers available, and most will do a good job supplying these nutrients so it\n\ndoesn’t matter too much which one you choose. What matters most is the correct mixing of the",
+    "char_count": 578
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 68,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\none you choose. What matters most is the correct mixing of the solution based on the specific fertilizer you chose. However, before we get into specific recipes,\n\nlet’s discuss several important factors when it comes to maintaining the nutrient solution.\n\n**3.1 pH**\n\nThe first factor is the pH of the solution. The pH of the solution is the measure of how\n\nacidic or basic the solution is based on the number of hydrogen ions. pH ranges on a scale from 0\n\nto 14, where 0 is the most acidic, 7 is neutral, and 14 is the most basic.The more hydrogen ions",
+    "char_count": 609
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 69,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n7 is neutral, and 14 is the most basic.The more hydrogen ions the more acidic the solution is, and the more hydroxide ions the more basic the solution. (Both\n\nand Brechner, 2013). Common acids (not for use in hydroponic systems, just examples) include\n\nlemon juice and vinegar, a neutral solution is milk, and basic solutions include drain cleaners and\n\nmilk of magnesia. pH is important because it controls the nutrients available to the plants. Too\n\nhigh or too low of a pH will make certain nutrients unavailable to the plants. An Ideal pH for",
+    "char_count": 602
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 70,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ncertain nutrients unavailable to the plants. An Ideal pH for hydroponic solution is between 5.5 - 6.0 (Mattson, 2016).\n\n**Figure 8. Nutrient availability at different pH**\n\nThe pH of the solution should be checked regularly, as it can change within a matter of\n\ndays often due to fertilizer used and the plant’s uptake of that fertilizer (Mattson and Leith,\n\n2019). Generally, fertilizer with Ammoniacal Nitrogen will tend to decrease pH, and fertilizer\n\nwith Nitrate Nitrogen will tend to increase pH (Mattson and Leith 2019).\n\n**3.2 Electrical Conductivity**",
+    "char_count": 616
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 71,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\npH (Mattson and Leith 2019).\n\n**3.2 Electrical Conductivity** The next factor to look at is the EC of the solution. EC stands for electrical conductivity\n\nand is a measure for the amount of dissolved salts in the solution. The units can be a bit\n\nconfusing, but EC is typically measured in mmhos/cm which is the same as mS/cm (Mattson and\n\nPeters, 2014) or dS/m. Occasionally meters will report 1,000 times higher in µS/cm. For\n\nexample, your nutrient solution may have a fertilizer strength of 1.8 mmhos/cm (or mS/cm,",
+    "char_count": 574
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 72,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmay have a fertilizer strength of 1.8 mmhos/cm (or mS/cm, dS/m) which is the same as 1,800 µS/cm. You can use EC as an approximation for the fertilizer\n\nstrength (concentration). An important thing to note is that EC measures all salts in the solution,\n\nnot just the ones in your fertilizer, so it is important to measure the EC of your water before\n\nadding fertilizer. Knowing the EC of your water beforehand allows you to better control your\n\nfertilizer input. Generally you want a starting EC of 1 mmhos/cm or less, although at the home",
+    "char_count": 595
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 73,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nwant a starting EC of 1 mmhos/cm or less, although at the home scale, unless you are starting with a really high EC of say 2, you are probably ok. In addition,\n\nmost people don’t regularly have access to an EC meter and thus while it is important for a\n\ncommercial grower to keep up with EC (often they use continuous EC sensors connected to\n\ncomputer controlled dosers to supply nutrients), for the home grower, pH is more important to\n\ntake care of. In fact studies have shown that if pH is not controlled, then the EC won’t matter as",
+    "char_count": 592
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 74,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nshown that if pH is not controlled, then the EC won’t matter as much because certain nutrients won’t be available to crops (see figure 9) (Mattson and Hansen,\n\n2011) . Thus, the suggestion for a home grower is to monitor your pH because that will have\n\nmore of an impact on your crops than worrying about EC. As long as you mix the fertilizer\n\ncorrectly your EC should be okay.\n\nIf you want to get more in-depth and track EC you can purchase hand-held meters for\n\n$60-100+, and you can always send samples out to a lab for testing. Ex. J.R. Peters Laboratory.",
+    "char_count": 615
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 75,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nsamples out to a lab for testing. Ex. J.R. Peters Laboratory. **Figure 9. pH and EC effects on lettuce yield**\n\n**3.3 Oxygenation**\n\nPlants need oxygen for cellular respiration, and in a hydroponic system the roots get this\n\nthrough dissolved oxygen in the nutrient solution. Generally we want a dissolved O 2 content of\n\n7-10 ppm (this is generally at saturation in water, depending on water temperature) (Goto et. al,\n\n1996). In a deep water system this can be achieved by using a pump and an airstone. In an NFT",
+    "char_count": 570
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 76,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthis can be achieved by using a pump and an airstone. In an NFT system oxygenated water is achieved through the constant flow and agitation of the water\n\n(Adams, 1981). Generally you want 10L of water flow per plant per hour in an NFT system\n\n(based on general commercial systems and Jackson, 1979) .\n\nOne other important factor for a high dissolved oxygen content in your nutrient solution\n\nis temperature. Generally speaking, colder water is able to have a higher dissolved oxygen",
+    "char_count": 538
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 77,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ncolder water is able to have a higher dissolved oxygen content (Adams, 1981). This might not be a huge problem indoors, but if you set up your system\n\noutside, you will want to do your best to try to keep your reservoir cool. For an NFT system, this\n\nmight mean keeping the reservoir in the shade, and for a deep water culture system this most\n\nlikely means having an opaque material for the reservoir and trying to let as little light in the\n\nreservoir as possible.\n\n**Figure 10. Dissolved oxygen solubility based on temperature**\n\n**3.4 Mixing a Solution**",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 78,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nsolubility based on temperature**\n\n**3.4 Mixing a Solution** To mix a nutrient solution there are two main things you need to know. First, you need to\n\nknow the volume of the solution you want to make. Second, you need to know how much\n\nfertilizer to add per liter/gallon of water. The first step is easy, as that is pretty much the volume\n\nof your reservoir and how much you intend to fill it. Most reservoirs/containers you purchase\n\nwill list their volume (or you can calculate it based on their dimensions). For example, maybe",
+    "char_count": 586
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 79,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\ncan calculate it based on their dimensions). For example, maybe you have a 25L reservoir and you decide to put 20L of water in the reservoir. Step two requires a\n\nlittle reading from the fertilizer bottle, but you should be able to find how much fertilizer to use\n\nper unit volume fairly easily. For example, if you have a liquid fertilizer, your bottle may say\n\nsomething to the effect of, “add 2 mL of fertilizer for every 1 L of water”. In our example, this\n\nmeans we need to at 2 mL 20 = 40 mL of fertilizer. If you have a powdered mix, it might say ×",
+    "char_count": 611
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 80,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n40 mL of fertilizer. If you have a powdered mix, it might say × something to the effect of “add 1.5 grams of fertilizer for every 1 L of water”. In this case you\n\nwould need to add 1.5 g 20 = 30 grams of fertilizer. ×\n\nShould your fertilizer come in several parts, make sure to mix the correct amount from\n\neach part into your nutrient solution (as addressed below, be sure to completely dissolve/mix one\n\npart of the nutrient solution before adding the next). In the case that your fertilizer has different",
+    "char_count": 563
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 81,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthe next). In the case that your fertilizer has different suggestions for different stages of growth, I would recommend choosing the prescribed amount\n\nfor a stage that might be called something like “general purpose” or “vegetative growth”. If that\n\nsounds good enough for you (your plants will be fine with this!) then feel free to skip the next\n\ntwo sections. However, if you are getting really excited and just want to do some custom mixing\n\nthen read on!\n\n**3.4.1 Reading a Liquid Fertilizer Label and Making a Custom Mix**",
+    "char_count": 584
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 82,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nReading a Liquid Fertilizer Label and Making a Custom Mix** Sometimes a fertilizer will suggest different feed rates for different weeks based on\n\ngrowth stages of plants. This strategy can be useful, and is often employed, when growing a\n\nfruiting crop such as a tomato or a flowering crop such as hemp. However, for leafy greens and\n\nherbs, only one solution recipe is generally used throughout the entire growth cycle. If you find\n\nyourself in this position you may need to make a mix from several different fertilizers. For",
+    "char_count": 583
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 83,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nmay need to make a mix from several different fertilizers. For example, General Hydroponics’ Flora Series is a three part mix that could be used in stages, but\n\nfor leafy greens we mix all three parts into one solution. In order to make that one solution you\n\nfirst need to understand how to read a fertilizer label. A fertilizer label tells you the percentage of\n\neach element contained, and will look something like this.\n\n**Image 11. Liquid fertilizer label**\n\nIn this example we can see that this fertilizer is 2.0% total nitrogen, 1.0% phosphate, 6.0",
+    "char_count": 611
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 84,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nthis fertilizer is 2.0% total nitrogen, 1.0% phosphate, 6.0 % potash, and 0.5% magnesium. The first three nutrients listed here (N,P,K) are also listed at the\n\ntop in bold numbers because those are the main macronutrients. Other fertilizer bottles will also\n\nfollow the same procedure of listing N,P,K in bold or large numbers in that order. One thing that\n\nis a little confusing is that phosphorus (P) and potassium (K) are listed as phosphate (P 2 O 5 ) and\n\npotash (K 2 O). This means that the actual percentage of P and K is actually lower. To figure this",
+    "char_count": 615
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 85,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nactual percentage of P and K is actually lower. To figure this out you need to know the atomic mass of each element and then you need to find the percent of\n\nthe desired element in each molecule. So for phosphate we want the percent P, and for potash we\n\nwant percent K. The calculations are as follows.\n\nAtomic mass of P = 30.97 | Atomic mass of K = 39.10 | Atomic mass of O = 15.99\n\nThen for P 2 O 5 …\n\n% _P_ = (30.97 (30.97 × 2) + (15.99 × 2) × 5) [×]^1 00 = 43.7 % _P_ (generally we just use .44 as our conversion\n\nfactor)",
+    "char_count": 582
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 86,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n% _P_ (generally we just use .44 as our conversion\n\nfactor) So now we multiply whatever the percent phosphate is by .44, and in our case we will do:\n\n1% _P_ × .44 = 0.44% _P_\n\nThen for K 2 O…\n\n% _K_ = (39.10 × (39.10 2) + (15.99 × 2) × 1) [×]^1 00 = 83.2 % _P_ (generally we just use .83 as our conversion\n\nfactor)\n\nSo now we multiply whatever the percent potash is by .83, and in our case we will do:\n\n6% _K_ × .83 = 4.98% _K_\n\nThe rest of the elements listed are the actual percentage of that specific element. In this",
+    "char_count": 576
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 87,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\nare the actual percentage of that specific element. In this example we have a final percentages of 2%N, 0.44% P, 4.98% K, and 0.5% Mg. Now that we\n\nknow the percentages we can figure out how much fertilizer to use based on some target value\n\nwe have. Let’s say we have a target value of 150 ppm (parts per million) nitrogen for a 20 L\n\nnutrient solution. There are a few key points that you need to be aware of when completing these\n\nnext steps.\n\n1) In a liquid fertilizer, 1% = 10,000 ppm\n\n2) 1 ppm = 1 mg/L\n\n3) 1 L = 1000 ml",
+    "char_count": 582
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 88,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n1% = 10,000 ppm\n\n2) 1 ppm = 1 mg/L\n\n3) 1 L = 1000 ml 4) (initial concentration) x (initial volume) = (final concentration) x (final volume)\n\n5) We are interested in the volume of fertilizer to use or “initial volume”\n\nFirst, I would figure the amount of fertilizer to use for one liter and then multiply that\n\nnumber by 20. So now we use this formula solving for the “initial volume” ( mL of the fertilizer\n\nproduct we need to add to our reservoir):\n\n( _final_ _concentration_ ) × ( _final_ _volume_ ) _Initial_ _volume_ = ( _initial_ _concentration_ )",
+    "char_count": 608
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 89,
+    "text": "# **A GUIDE TO HOME HYDROPONICS** **FOR LEAFY GREENS**\n\n_volume_ ) _Initial_ _volume_ = ( _initial_ _concentration_ ) (150 _mgL_ ) × (1000 _ml_ ) _Initial_ _volume_ = _mg_ = 7.5 _ml_ _of_ _fertilizer_ _per_ 1 _L_ (20,000 _L_ )\n\nSo now that we know 7.5 ml of fertilizer will provide 150 ppm of nitrogen for 1 liter of",
+    "char_count": 316
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 90,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nsolution at 150 ppm Nitrogen.\n\nNow you have to to figure out how much of the other nutrients you are supplying with\n\nthe fertilizer. You can rearrange the formula to find final concentration and do a calculation like\n\nthis:\n\n( _initial_ _concentration_ ) × ( _initial_ _volume_ ) _F_ _inal_ _Concentration_ = ( _final_ _volume_ )\n\nIf we were looking to find the amount of phosphorus supplied to 1L of solution we would do:",
+    "char_count": 520
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 91,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\namount of phosphorus supplied to 1L of solution we would do: _F_ _inal_ _Concentration_ _Phosphorus_ = (4,400 (1000 _mgL_ ) × _ml_ (7.5 ) _ml_ ) = 33 _ppm_\n\nAnother way to do it would be to say that we know we supplied a total of 150 ppm\n\nnitrogen, and the fertilizer is 2% Nitrogen and .44% phosphorus. So we could find the percent of\n\nphosphorus relative to nitrogen and then multiply that by 150:\n\n(.44) = 0.22\n\n150 × 0.22 = 33 ppm (mg/L) P\n\nYou would then have to do this for all the elements, and in addition you would have to",
+    "char_count": 629
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 92,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ndo this for all the elements, and in addition you would have to factor in how to use the other parts of the fertilizer mix as well. This could get very drawn out, so\n\nfor ease of calculations I am including an excel spreadsheet where all you have to do is enter the\n\npercent of each element (enter the percent phosphate and potash, the excel chart will handle the\n\nconversion), and adjust with the ml/L of each part of the mix until you find a final mix you are\n\nhappy with:",
+    "char_count": 572
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 93,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\npart of the mix until you find a final mix you are\n\nhappy with: [https://blogs.cornell.edu/cornellcea/files/2020/05/Useful-Home-Hydroponics-Excel-Sheets.xlsx](https://blogs.cornell.edu/cornellcea/files/2020/05/Useful-Home-Hydroponics-Excel-Sheets.xlsx)\n\n**3.4.2 Reading a Powder Fertilizer Label and Making a Custom Mix**\n\nWhen making a custom mix of powdered fertilizer, some of the steps will be the same as\n\nmaking a custom mix from a liquid fertilizer. You will still need to find the percent of your",
+    "char_count": 602
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 94,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfertilizer. You will still need to find the percent of your desired element, and 1 mg/L still = 1 ppm. However, when calculating how much fertilizer to use\n\nbased on your target ppm you will now use the formula:\n\n_target_ _ppm_ ( _mg_ / _L_ ) _mg_ _of_ _fertilizer_ = % _of_ _desire_ _element_ _in_ _compound_\n\nExample: we are using commercial calcium nitrate to supply nitrogen, and we want 150 ppm\n\n(mg/L) nitrogen in our nutrient solution. The chemical formula for commercial calcium nitrate is",
+    "char_count": 595
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 95,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nThe chemical formula for commercial calcium nitrate is Ca(NO 3 ) 2 - 3H 2 O. According to the product label the product is 18.5% Ca and 15.5% N. So to\n\ncalculate how much calcium nitrate fertilizer to use to get 150 ppm N::\n\n_mg_ _of_ _fertilizer_ = 150 _ppm_ = 968 _mg_ of calcium nitrate in 1liter of water to supply 150 ppm N. .155\n\nYou can find the amount of calcium supplied by doing (968 mg calcium nitrate) x (0.185) = 179\n\nmg/L calcium (179 ppm). (Mattson, 2018).\n\nOnce again you would need to do this for all the sources of elements you are using, and",
+    "char_count": 658
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 96,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto do this for all the sources of elements you are using, and don’t forget to take into account that when you are supplying one element you are most likely\n\nalso supplying another element! (If you enjoy these sorts of calculations, one resource that walks\n\n[you through the calculations is: http://e-gro.org/pdf/E305.pdf](http://e-gro.org/pdf/E305.pdf) )\n\n**3.5 Organic Fertilizers**\n\nOrganic Fertilizers are ones in which the elements are derived from natural substances.\n\nUnfortunately, it is often difficult to create an organic mixture that doesn’t precipitate when",
+    "char_count": 667
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 97,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto create an organic mixture that doesn’t precipitate when mixed together. Organic fertilizers will often form an organic film that can clog pumps, airstones,\n\ntubing, and generally is quite messy. In the first few days, organic fertilizers will often bubble\n\nand seem to ooze out of the reservoir. This can take several days to a week to settle down\n\ndepending on the size of the reservoir. Most of the mineral elements in organic fertilizer require\n\nquite a bit of time to be released and made available to the plant. This process requires naturally",
+    "char_count": 649
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 98,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nmade available to the plant. This process requires naturally occurring microbes to become established to process these complex organic compounds and turn\n\nthem into plant available nutrients. In addition, pH often drastically changes due to the sources of\n\nnutrients thus limiting the amount of nutrients actually available to the plant. While growing\n\norganic can be a great farming practice in the field, it may not yet be suitable for use in\n\nhydroponics. In addition, it’s unclear if you can actually grow crops “organically” (as in have",
+    "char_count": 639
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 99,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nif you can actually grow crops “organically” (as in have them labeled organic) in a hydroponic system due to many of the materials used, and the obvious\n\nlack of soil which is paramount to the organic label (Mattson and Leith, 2019).\n\nHowever, it’s worth noting that some of the big reasons for growing organic in the field\n\ninclude zero use of synthetic pesticides or herbicides. Commercial hydroponic growers will not\n\nbe using synthetic herbicides, and will have little to no use of synthetic pesticides. Certainly",
+    "char_count": 615
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 100,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nwill have little to no use of synthetic pesticides. Certainly home growers should not be using synthetic pesticides on their crops. In addition, even though\n\nconventional nutrients are most commonly used in hydroponics - they are recirculated (i.e.\n\nreused) typically for the whole crop cycle which limits environmental concerns about nutrient\n\nuse and runoff.\n\n**Image 12. Bubbling from organic Fertilizer Image 13. Organic Fertilizer Biofilm**\n\n**3.6 Conventional Fertilizers**\n\nConventional Fertilizers are ones where elements are synthetically derived from natural",
+    "char_count": 666
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 101,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nare ones where elements are synthetically derived from natural substances or isolated from naturally occuring materials. They are more easily formulated to be\n\nwater soluble and available to plants immediately. In general, they are easier to handle and\n\nrequire less maintenance than organic fertilizers. Examples of conventional fertilizer brands\n\ninclude: General Hydroponics, FoxFarm, AeroGarden Liquid Plant Food, Jack’s hydroponic\n\nmixes.\n\n**3.7 Case Study Conventional (General Hydroponics Flora Series) vs Organic (General**\n\n**Hydroponics Organic)**",
+    "char_count": 655
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 102,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nFlora Series) vs Organic (General**\n\n**Hydroponics Organic)** The objective for this experiment was to grow heads of lettuce with different levels of\n\nnutrient solution care to see what kind of commitment would provide the best results for a\n\nhomeowner. Four different care levels were established ranging from no care at all after the\n\ninitial set up, all the way to checking and maintaining pH and EC 3 times a week. In addition, I\n\nlooked at a conventional fertilizer and an organic fertilizer to see what the best option for a home\n\ngrower would be.",
+    "char_count": 651
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 103,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto see what the best option for a home\n\ngrower would be. The set up for the experiment and results are as follows\n\n- 35 day growing cycle in restaurant bussing tubs (21x17x7 inches, with a total\n\nvolume of 27 liters, tubs were initially filled with 25 liters of nutrient solution)\n\n- In a greenhouse with supplemental light (daily light integral held constant at 12.5\n\nmol·m^-2 ·d^-1 )\n\n- pH and EC held constant at targets for different treatments\n\n- 4 treatments of a single Conventional fertilizer (a 3-part liquid hydroponic",
+    "char_count": 626
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 104,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nof a single Conventional fertilizer (a 3-part liquid hydroponic fertilizer) with different levels of care\n\n- 4 treatment of Organic fertilizer (a 4-part liquid organic hydroponic fertilizer)\n\nwith different levels of care\n\nDifferent Levels Of Care:\n\n_Treatment 1_ :Control (pH and EC were adjusted 3 times weekly to desired levels)\n\n(labels: GHC [conventional] and GHOC [organic])\n\n_Treatment 2_ : Fertilizer was added and then left alone the entire growing cycle\n\n(labels: GHN [conventional] and GHON [organic])",
+    "char_count": 610
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 105,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ngrowing cycle\n\n(labels: GHN [conventional] and GHON [organic]) _Treatment 3_ : Tubs were topped off with fertilizer water when needed (no pH or\n\nEC adjustment) (labels: GHFNopH [conventional] and GHOFNopH [organic])\n\n_Treatment 4_ : Tubs were topped of with fertilizer when needed and pH was\n\nadjusted (no EC adjustment)\n\n(labels: GHFYespH [conventional] and GHOFYespH [organic])\n\nNutrient Solutions were mixed with the goal of getting as close as possible to a modified\n\nSonneveld’s solution for leafy greens - which is what we recommend at Cornell for leafy greens.",
+    "char_count": 665
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 106,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n- which is what we recommend at Cornell for leafy greens. The conventional fertilizer was mixed from the 3 part General Hydroponic Flora series based on\n\neach part’s guaranteed chemical analysis, and the organic fertilizer was mixed froma 4 part\n\nGeneral Hydroponics’ Organic series based on each part’s guaranteed chemical analysis. I\n\nhappened to use a four part mixture, although the organic series has a wide range of products. I\n\nfound that the best mixture for this solution would come from a combination of “Bio Grow”,\n\n“Bio Bloom”, “Ca Mg”, and “Diamond Black”.",
+    "char_count": 667
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 107,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nof “Bio Grow”,\n\n“Bio Bloom”, “Ca Mg”, and “Diamond Black”. **Table 2. Fertilizer concentrations**",
+    "char_count": 195
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 108,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n2. Fertilizer concentrations** |Element|Target PPM<br>(Modified<br>Sonneveld’s<br>Solution for leafy<br>greens)|PPM Supplied by<br>Conventional<br>Fertilizer|PPM Supplied by<br>Organic Fertilizer|\n|---|---|---|---|\n|Nitrogen (N)|150|150|140|\n|Phosphorus (P)|31|44|61.1|\n|Potassium (K)|210|191|132.8|\n|Calcium (Ca)|90|100|100|\n|Magnesium (Mg)|24|35|40|\n|Sulfur (S)|32|15|20|\n|Iron (Fe)|1|2|0|\n|Boron (B)|0.25|0.20|0|\n|Manganese (Mn)|0.13|1.00|0|\n|Zinc (Zn)|0.16|0.30|0|\n|Copper (Cu)|0.023|0.20|0|\n|Molybdenum (Mo)|0.024|0.02|0.08|",
+    "char_count": 627
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 109,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n(Cu)|0.023|0.20|0|\n|Molybdenum (Mo)|0.024|0.02|0.08| **Image 14. Fertilizer treatments. Conventional fertilizer on the left, treatments 1-4 from**\n**back to front. Organic fertilizer on the right, treatments 1-4 back to front.**\n\n**Figure 11. Conventional and Organic Fertilizer treatments. (Treatments with the same**\n**letters are not significantly different from each other, based on Tukey HSD test with**\n**significance level of 0.05)**\n\nAll conventional treatments had significantly higher fresh weights compared to the",
+    "char_count": 622
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 110,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nhad significantly higher fresh weights compared to the organic treatments. In the conventional section, treatments 3 and 4 (where nutrient solution was\n\ntopped off each week) had significantly higher freshweights than treatments 1 and 2. In the\n\norganic section, the treatments where pH was controlled (treatments 1 and 4) had significantly\n\nhigher freshweights than the others.\n\nBasically, if you have the choice you should use a conventional fertilizer to get the best\n\nplant performance. Not only will the plants have a higher fresh weight, but the system will be",
+    "char_count": 664
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 111,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthe plants have a higher fresh weight, but the system will be cleaner and have less maintenance. In this specific experiment, controlling the pH did not have a\n\nsignificant impact on the fresh weight in the treatments with conventional fertilizer. This is most\n\nlikely because the conventional fertilizer already had a pH buffer in the mix. That being said,\n\nmany other studies have shown pH is an important factor in the health and development of\n\nhydroponic plants so I would still recommend checking the pH at least once a week if you can.",
+    "char_count": 640
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 112,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nrecommend checking the pH at least once a week if you can. However if you can’t, it’s not a huge deal as the plants will still grow (albeit perhaps a bit smaller\n\nthan if pH were controlled, or they may eventually develop nutrient deficiencies from high pH\n\nsuch as iron or manganese deficiency). This experiment did show that topping off with nutrient\n\nsolution each week could be beneficial to plant growth. Once again, if you decide not to do this\n\nthe plants will still be healthy, they may just take a little longer to get to your desired fresh\n\nweight.",
+    "char_count": 656
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 113,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\njust take a little longer to get to your desired fresh\n\nweight. On the other hand, if you decide to grow using organic fertilizer you will certainly want\n\nto keep track of, and adjust, the pH of the solution several times a week. The organic solutions\n\nhad wild swings in pH, most often increasing to pH levels of 8 and above, and at these levels of\n\npH nutrients become unavailable for the plants to use. It’s clear from the photos that the roots of\n\ntreatments where pH was controlled were much healthier than those treatments where pH was",
+    "char_count": 639
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 114,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nwere much healthier than those treatments where pH was not controlled, and plants tended to be larger in pH controlled treatments. Note: this experiment\n\nwas conducted during 1 crop cycle, it could be that after a longer time (multiple crop cycles) the\n\norganic nutrient solution will stabilize (as naturally occurring microbes get established and\n\nprocess the organic nutrient forms to make them available to plants).\n\n**Control Treatments (Conventional on left, organic on right)**\n\n**(Image 15.)** **(Image 16.)**",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 115,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\non left, organic on right)**\n\n**(Image 15.)** **(Image 16.)** **( Image 17.)** ( **Image 18.)**\n--------------------------------------------------------------------------------------------------------------------**Treatment 2. No care after the initial solution was mixed. (Conventional on left, organic on right)**\n\n**(Image 19.)** **(Image 20.)**\n\n**(Image 21.)** **(Image 22.)**\n\n**Treatment 3. Nutrient solution was topped off each week. But there was NO pH**\n**maintenance.(Conventional on left, organic on right)**\n\n**(Image 23.)** **(Image 24.)**",
+    "char_count": 651
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 116,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\non left, organic on right)**\n\n**(Image 23.)** **(Image 24.)** **(Image 25.)** **(Image 26.)**\n\n--------------------------------------------------------------------------------------------------------------------\n**Treatment 4. Nutrient solution was topped off each week AND pH was maintained. (Conventional**\n**on left, organic on right)**\n\n**(Image 27.)** **(Image 28.)**\n\n**(Image 29.)** **(Image 30.)**\n\n**3.8 Fertilizer Quick guide**\n\nWhen choosing a fertilizer, I highly recommend using a commercially available",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 117,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\na fertilizer, I highly recommend using a commercially available pre-blended conventional hydroponic fertilizer. Fertilizers can come in both a liquid or powder\n\nform. For home hydroponic use, liquid fertilizers tend to be easier to measure and mix (i.e.\n\ndissolved in water). However, a powdered form might be the way to go if you want a cheaper\n\nfertilizer (you are not paying to ship all the water as in a liquid fertilizer) or if you want a more\n\nspecific fertilizer mix (as a commercial grower might). As an aside, the reason you often have to",
+    "char_count": 645
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 118,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ngrower might). As an aside, the reason you often have to mix fertilizers together into a solution is because if they were stored together in concentrated\n\nform some nutrients would precipitate out (i.e. recombine into an insoluble form). The main\n\nculprit is calcium. Calcium doesn’t mix with sulfates or phosphates in concentrated solution\n\n(Mattson and Peters, 2014). However, once diluted into the nutrient solution that the plants will\n\nreceive, precipitation should not be a problem.",
+    "char_count": 586
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 119,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nplants will\n\nreceive, precipitation should not be a problem. 1. Mix a solution based on the volume of water you are using and the instruction on the\n\nlabel.\n\na. Sometimes the suggested fertilizer schedule wants you to put different mixtures in\n\nduring different weeks. This is useful when growing flowering or fruiting crops,\n\nhowever when growing leafy greens it’s common practice to have one solution for\n\nthe entire growth cycle. In this case, use the suggested mixture for a growth stage",
+    "char_count": 589
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 120,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nIn this case, use the suggested mixture for a growth stage that is labeled something like “general purpose” or “vegetative growth”, and if the\n\nfertilizer comes in several parts don’t forget to mix the appropriate amount\n\ntogether from each one.\n\nb. If you want to do a more detailed comparison of nutrient values, you can fill in\n\nthe excel chart provided based on the guaranteed analysis on the bottle.\n\nc. In terms of precipitation - you want to avoid combining materials together in their",
+    "char_count": 590
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 121,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n- you want to avoid combining materials together in their concentrated form. First fill the reservoir at least half full, add the first material\n\nand stir (or run the pump) until it is fully dissolved in water, then add the second\n\nmaterial and fully dissolve and so on.\n\n2. Check the pH of the solution to make sure it falls within the 5.5-6.0 range and adjust. The\n\neasiest way to check and adjust pH is to buy a pH up and down kit. It should come with\n\nboth a way to measure pH (typically a color indicator) and chemicals to adjust pH. (If",
+    "char_count": 640
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 122,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n(typically a color indicator) and chemicals to adjust pH. (If you want to track pH in a more detailed way you can purchase a handheld pH meter for\n\n$60-100+, be sure to also buy reference solutions - so you can adjust your handheld\n\nmeter for accuracy).\n\na. Note, if you are trying to grow totally organic you need to use citric acid (it\n\nshould say suitable for organic, or OMRI)\n\nb. If you are using an organic fertilizer I would recommend checking the pH several\n\ntimes a week\n\nc. If you are using a conventional fertilizer, checking the pH once or twice a week",
+    "char_count": 662
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 123,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\na conventional fertilizer, checking the pH once or twice a week should do.\n\n3. I would recommend topping off the system with nutrient solution every 1-2 weeks.\n\n4. If you are using organic fertilizer, I would suggest keeping the same solution for several\n\ncrop cycles (still topping off with fertilizer as needed) in order to promote the\n\nestablishment of beneficial microbes.\n\na. You may see better results with organic fertilizers in later crop cycles after the\n\nbeneficials have established.\n\n**4. Seed starting**",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 124,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nafter the\n\nbeneficials have established.\n\n**4. Seed starting** When buying seed, it's a good idea to source your seed from a reputable commercial\n\nsource. These companies will generally tell you the % germination on the packet (as tested\n\nwithin the last few months), and while this won’t necessarily be the actual germination\n\npercentage you will get based in your conditions, it’s nice to know and it shows the companies\n\nhave taken the time to actually test the seeds. Some examples of notable companies for sources",
+    "char_count": 616
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 125,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ntest the seeds. Some examples of notable companies for sources of seed include Johnny's Seed, Ball Seed Company, Harris Seed, and High Mowing (an all\n\norganic brand).\n\nAfter purchasing seeds, it’s a good idea to store them in a cool place such as a refrigerator\n\nto help increase the longevity of seeds. In addition, be sure to keep any seeds you are not using\n\ndry (sealing in a container with a silica/desiccant packet can help to keep out moisture),\n\notherwise they will be compromised!",
+    "char_count": 587
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 126,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto keep out moisture),\n\notherwise they will be compromised! When you are ready to start your seed, there are a few materials that you will want to\n\nhave. First off, you need a media to plant the seeds in. If you were planting outside the media\n\nwould be soil, but in hydroponics we use soilless media. Two common media types are\n\nRockwool and Coco Coir.\n\n**Image 31. Rockwool cubes Image 32. Coco coir cubes**\n\nRockwool is heated and spun basalt that is then typically formed into 1 or 1.5 inch cubes",
+    "char_count": 598
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 127,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nbasalt that is then typically formed into 1 or 1.5 inch cubes (Resh, 2013). Rockwool is an inert media and has good water holding capacity which makes it\n\nuseful for starting seeds (Resh, 2013). Coco Coir is ground coconut husk which means that it can\n\nbe composted (Resh, 2013). For seed starting you can find compressed coir cubes with a\n\npaper-like wrap that will keep coir particles from falling into your hydroponic system.\n\nA seeding flat is used to hold the media while the seeds germinate. The most common is",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 128,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto hold the media while the seeds germinate. The most common is a 10” x 20” seeding flat, and this can easily be ordered online or picked up at a local garden\n\ncenter. Although for a home grower, a smaller flat will also work just fine. After planting, the\n\nseeds will need nutrients (as described in the Nutrient solution section) and light (as described in\n\nthe Light section).\n\nNow comes the fun part! Pre-soak the flat of rockwool in nutrient solution for 10-15\n\nminutes. Rockwool can often start at a pH around 7-8.5 and soaking helps lower the pH to a",
+    "char_count": 655
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 129,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nstart at a pH around 7-8.5 and soaking helps lower the pH to a more suitable range. If you are using coco coir, it’s best to soak overnight so that 1) compressed\n\ncoir cubes have time to expand and 2) because coco coir cubes can have excess salts, and\n\nsoaking helps to leach some of them out. After soaking, plant seeds into the media. If you are\n\nplanting lettuce or kale, one seed per cube will do as those species can grow quite large.\n\nHowever with most other herbs you can get away planting around 3-4 seeds per cube.",
+    "char_count": 621
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 130,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nherbs you can get away planting around 3-4 seeds per cube. **Image 33. Seedlings in rockwool cubes Image 34. Seedlings in rockwool cubes**\n\nMake sure to water the seedlings with nutrient solution once a day or at least enough so\n\nthat the media doesn’t dry out. In a commercial setting, seeds are germinated at 68℉, and then\n\nafter germination the temperature is set for 75℉ days and 65℉ nights (Both and Brechner,\n\n2013). At the home scale, these specific temperatures are not necessary, but it would be a good",
+    "char_count": 609
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 131,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nspecific temperatures are not necessary, but it would be a good idea for the seeds to generally have these conditions. Around the 4 to 5 day mark look for any\n\naccidental doubles in the lettuce plugs and remove them (Both and Brechner, 2013).\n\nThe duration of time before transplanting depends on both the type of seed, your\n\npreference for what stage to harvest at, and environmental conditions. For example, many\n\ncommercial operations aim for a 35 day growing cycle to get 5 ounce (150 gram) heads of",
+    "char_count": 601
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 132,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfor a 35 day growing cycle to get 5 ounce (150 gram) heads of lettuce under ideal environmental conditions. Following this schedule, you should try to\n\ntransplant your seeds into your hydroponic system around day 11 (Both and Brechner, 2013).\n\nWhen growing herbs from seed, the seedlings tend to be ready anywhere from 2-3 weeks (C.\n\nCurrey, personal communication, 2019). If environmental conditions are not optimum (such as\n\ncooler temperatures and lower light) it will take longer for seedlings to develop. In general, a",
+    "char_count": 621
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 133,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nit will take longer for seedlings to develop. In general, a good time to transplant is when you see the formation of 3-4 true leaves, or the plants are starting\n\nto crowd each other (Mattson, 2016). In addition, you should start to see the roots at the bottom\n\nof the rockwool or coir cell. Leaving the plants in the rockwool longer could cause stem\n\nelongation and tangles between plants.\n\n**Image 35. Lettuce seedlings ready for transplant. Image 36. Seedlings transplanted into**",
+    "char_count": 580
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 134,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nready for transplant. Image 36. Seedlings transplanted into** **DWC system**\nAnother option for seeding would be to plant directly into the hydroponic system. This\n\nwouldn’t be realistic at the commercial level due to spacing and scheduling concerns. However,\n\nat home level it certainly can be done. Just make sure the rockwool cubes don’t dry out before\n\nthe roots make contact with the nutrient solution\n\n**4.1 Seed Starting Quick Guide**\n\nMaterials:\n\n- Seeds\n\n- Seeding flat\n\n- Media to plant seeds into (Rockwool or Coco Coir cubes)",
+    "char_count": 635
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 135,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nflat\n\n- Media to plant seeds into (Rockwool or Coco Coir cubes) - Nutrient solution (as per directions in the nutrient solution section)\n\n- Light (as per directions in the lighting Section)\n\nDirections:\n\n1. Place Rockwool in the seeding flat and pre-soak in nutrient solution for 10-15 minutes,\n\novernight for coco coir.\n\n2. Plant one seed per cube if lettuce, 3-4 per cube for other herbs\n\n3. Place seeding flat with media and seeds under light\n\na. You can also decide to plant directly into your system at this point if you wish",
+    "char_count": 628
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 136,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto plant directly into your system at this point if you wish 4. Water once a day, or enough so that the media doesn’t dry out\n\n5. At about day 4 or 5 remove any accidental lettuce doubles from plugs\n\n6. If you have left your seeds under a light in the seeding flat, around Day 11 transplant\n\nlettuce into your hydroponic system (if you want to stick to a 35 day growing cycle). For\n\nother herbs, wait to transplant until you see 3-4 true leaves and/or roots coming out the\n\nbottom of cubes.\n\n**5. Deep Water Culture**",
+    "char_count": 615
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 137,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncoming out the\n\nbottom of cubes.\n\n**5. Deep Water Culture** Deep water culture hydroponics consists of a reservoir to hold nutrient solution that the\n\nplant roots will be in direct contact with, a floating panel to hold plants, an airstone and a light.\n\nThis type of system is great for home hydroponic users as it is easily constructed and cared for.\n\nIn addition, it can be used to grow many different crops such as lettuce, basil, kale, and sorel.\n\n**5.1 Kits**\n\nThere are many kits to be found online, here are some examples:",
+    "char_count": 627
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 138,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nare many kits to be found online, here are some examples: 1. [https://www.aerogarden.com/](https://www.aerogarden.com/)\n\n2. [https://backtotheroots.com/collections/top-sellers/products/watergarden](https://backtotheroots.com/collections/top-sellers/products/watergarden)\n\n3. [https://www.amazon.com/DWC-Hydroponic-System-Growing-Kit/dp/B07FYS5BTJ/ref=](https://www.amazon.com/DWC-Hydroponic-System-Growing-Kit/dp/B07FYS5BTJ/ref=sr_1_7?crid=8X83K406F6D&dchild=1&keywords=hydroponic+kit&qid=1587863178&sprefix=hydopnic+kit%2Caps%2C170&sr=8-7)",
+    "char_count": 638
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 139,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nonic+kit&qid=1587863178&sprefix=hydopnic+kit%2Caps%2C170&sr=8-7) [sr_1_7?crid=8X83K406F6D&dchild=1&keywords=hydroponic+kit&qid=1587863178&](https://www.amazon.com/DWC-Hydroponic-System-Growing-Kit/dp/B07FYS5BTJ/ref=sr_1_7?crid=8X83K406F6D&dchild=1&keywords=hydroponic+kit&qid=1587863178&sprefix=hydopnic+kit%2Caps%2C170&sr=8-7)\n\n[sprefix=hydopnic+kit%2Caps%2C170&sr=8-7](https://www.amazon.com/DWC-Hydroponic-System-Growing-Kit/dp/B07FYS5BTJ/ref=sr_1_7?crid=8X83K406F6D&dchild=1&keywords=hydroponic+kit&qid=1587863178&sprefix=hydopnic+kit%2Caps%2C170&sr=8-7)",
+    "char_count": 656
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 140,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nonic+kit&qid=1587863178&sprefix=hydopnic+kit%2Caps%2C170&sr=8-7) Many of these kits are “plug and play” (ready to use) and all you have to do is plug them in, add\n\nwater/fertilizer and plant seeds. However, some are quite expensive (especially when they\n\ninclude their own light source) so you might decide to make your own.\n\n**5.2 DIY Materials**\n\nWhen constructing your own deep water culture system these are the components you\n\nwill need to acquire. First you need to acquire a reservoir for your plants. There is quite a large",
+    "char_count": 629
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 141,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto acquire a reservoir for your plants. There is quite a large range of reservoir volumes that could be used for your system. In a commercial setting, ponds\n\nare usually 8-12 inches deep which corresponds to around 2 gallons of nutrient solution per plant\n\n(based on the 3.5 plants per square foot standard). However, at the home level a lower volume is\n\ncertainly okay. Plants are routinely grown with a gallon per plant and turn out fine. However, the\n\nlarger your reservoir the more buffering you have when it comes to water temperature, EC, and",
+    "char_count": 646
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 142,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nbuffering you have when it comes to water temperature, EC, and pH (Goto et. al, 1996). This means there is more stability in the nutrient solution and those\n\nfactors are less likely to change as rapidly in a larger reservoir as they would in a smaller\n\nreservoir. In addition, you may want to think about how often you will have to refill the reservoir.\n\nA general guideline for lettuce (and you could probably use this as a guide for most leafy greens)\n\nis that you will lose 100 ml of water due to evapotranspiration per plant per day (Ciokolz et. al, ).",
+    "char_count": 654
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 143,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ndue to evapotranspiration per plant per day (Ciokolz et. al, ). This comes to around 0.7 liters (or one-fifth of a gallon) of water per week per plant.\n\nIn terms of actual reservoirs, restaurant bussing tubs work great (I have used bus tubs that\n\nare 21” 17” 7”), and plastic storage boxes (such as ones you might use to store clothing) can × ×\n\nalso work equally well. You just want to make sure that whatever you choose as a reservoir it is\n\nconstructed with opaque material. The reason for this is that you don’t want light to be able to",
+    "char_count": 638
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 144,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nThe reason for this is that you don’t want light to be able to get to the nutrient solution. Light will almost certainly cause algal growth and could even\n\ndegrade some of the nutrients.\n\nThe next thing you will need is a raft for the plants to float on. Insulation boards (for\n\nexample 4’x8’x1” Polystyrene Foam Board Insulation) are often used, but a lid with holes will\n\nalso do. However, it is important to note that a lid with holes will not drop with the water level,",
+    "char_count": 571
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 145,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nnote that a lid with holes will not drop with the water level, and if left unchecked, especially in the beginning of the plant's life, the roots may no longer be in\n\ncontact with the nutrient solution. This could lead to both a nutrient deficiency and a lack of\n\noxygen for the plant. If you choose to use a lid with holes, make sure you are vigilant in keeping\n\nthe roots in contact with the nutrient solution.\n\nIn addition, you will need a light (as described in the Light section), an airstone and air",
+    "char_count": 602
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 146,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nlight (as described in the Light section), an airstone and air pump for oxygenation, and rockwool (or some type of media) for the seeds to germinate in.\n\n**5.3 DIY Construction**\n\n1. Reservoir (example restaurant bussing tub, or plastic storage box)\n\n2. Floating insulation board.\n\na. Insulation is easily found at most hardware stores like The Home Depot and\n\nLowes. The insulation we use can be found here:",
+    "char_count": 506
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 147,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nHome Depot and\n\nLowes. The insulation we use can be found here: [https://www.lowes.com/pd/Kingspan-Insulation-Common-1-in-x-4-ft-x-8-ft-Actu](https://www.lowes.com/pd/Kingspan-Insulation-Common-1-in-x-4-ft-x-8-ft-Actual-1-in-x-4-ft-x-8-Feet-R-5-Unfaced-Polystyrene-Foam-Board-Insulation/999972966)",
+    "char_count": 395
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 148,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n-8-Feet-R-5-Unfaced-Polystyrene-Foam-Board-Insulation/999972966) [al-1-in-x-4-ft-x-8-Feet-R-5-Unfaced-Polystyrene-Foam-Board-Insulation/999972](https://www.lowes.com/pd/Kingspan-Insulation-Common-1-in-x-4-ft-x-8-ft-Actual-1-in-x-4-ft-x-8-Feet-R-5-Unfaced-Polystyrene-Foam-Board-Insulation/999972966)^966(https://www.lowes.com/pd/Kingspan-Insulation-Common-1-in-x-4-ft-x-8-ft-Actual-1-in-x-4-ft-x-8-Feet-R-5-Unfaced-Polystyrene-Foam-Board-Insulation/999972966)\n\nb. Cut the board to the appropriate size for your reservoir. Cutting can be done using",
+    "char_count": 645
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 149,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nappropriate size for your reservoir. Cutting can be done using a saw or a box cutter. Using a box cutter tended to create a smoother cut, and\n\nproduced less of a mess. You will want to cut the board as close to the inner area\n\nof the reservoir as possible so as to prevent light from getting to the nutrient\n\nsolution. This will help stop algal growth. One caveat is that if your reservoir gets\n\nsmaller towards the base you may want to decrease the size of your float just a\n\nlittle so that it can sink down with the water",
+    "char_count": 621
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 150,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfloat just a\n\nlittle so that it can sink down with the water **Image 37. Using a box cutter to cut insulation Image 38. Breaking apart insulation board**\n\nc. Drill the appropriate amount of 1 inch in diameter holes (for one inch rockwool\n\ncubes, 1-inch holes or slightly smaller [⅞”] tend to work well) for the area of the\n\nboard. One thing to consider when drilling holes might be to drill a test hole and\n\ntry placing a wet rockwool cube in it. See if you are comfortable with the fit. If it",
+    "char_count": 591
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 151,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncube in it. See if you are comfortable with the fit. If it feels too loose to you drill a hole that is slightly less than 1 inch in diameter. This\n\nis also a good strategy if you are using a different size rockwool cube.\n\n**Image 39. Drill and ⅞” attachment for drilling holes in insulation board**\n\nThe standard density for hydroponic head lettuce (which works well for kale,\n\narugula, and other hydroponic crops is) 3.5 holes per square foot (Both, 2002).\n\nThis equates to around 6.5 inch spacing between plants. When growing a larger",
+    "char_count": 634
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 152,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\naround 6.5 inch spacing between plants. When growing a larger plant like lettuce or kale, it’s probably best to stick to this kind of spacing.\n\nHowever, if you are growing a smaller herb you can have closer spacing without\n\ntoo much of an issue.\n\nResearch by Chris Currey, of Iowa State University, has shown that plants\n\nthat are spaced close together will have a lower fresh weight per plant, but the\n\nfresh weight per square meter of growing area will actually be higher than plants\n\nspaced further apart (C. Currey, personal communication, 2019). This can be a",
+    "char_count": 662
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 153,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\napart (C. Currey, personal communication, 2019). This can be a problem for commercial growers because customers generally don’t want to buy\n\nsmall plants. However, at the home level this might not bother you if you are\n\ngetting more fresh weight overall.\n\nOther things to consider include: plants spaced really close\n\ntogether are more at risk for disease, as there is less airflow between plants\n\nand they are more likely to tangle with other plants making harvesting\n\nmore difficult.",
+    "char_count": 583
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 154,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto tangle with other plants making harvesting\n\nmore difficult. 3. Place an Airstone connected to a pump in the nutrient solution reservoir. There are pumps\n\nmade specifically for hydroponics, but a cheap one for a fish tank will also do just fine.\n\nYou should leave the airstone running all the time as you always want the nutrient\n\nsolution oxygenated. In addition, you will probably want to check the airstone and tubing\n\nfor clogs each week just to make sure everything is working properly. It is common to\n\nreplace the airstone every few crop cycles.",
+    "char_count": 652
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 155,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nIt is common to\n\nreplace the airstone every few crop cycles. 4. Lighting is probably the most difficult part as you need to find some way to hang a light\n\nover the plants. I have found doing so in a way that allows the height of the light to be\n\nadjustable is quite useful. Although this is not a requirement. One way to do this would\n\nbe to hang the light with adjustable cables. These are easily found with a quick google\n\nsearch, or through sites like Amazon. For my experiments, I built a wooden cage that",
+    "char_count": 607
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 156,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nlike Amazon. For my experiments, I built a wooden cage that would fit around the reservoir to hold up my lights. Some lights may require you build an\n\nadditional fixture if you wish to make the light adjustable in height. For example, the bar\n\nlights I used needed a fixture to hold all of them so that I could adjust in height.\n\n**Image 40. Frames with adjustable light hangers**\n\n**5.4 Mechanical Maintenance/Troubleshooting**\n\nThe good thing about DWC is that there aren’t that many parts to go wrong. The main",
+    "char_count": 611
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 157,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nDWC is that there aren’t that many parts to go wrong. The main things to check on are that the airstone is not clogged, and that adjustable lights are at the correct\n\nheight.\n\n**5.5 Deep Water Culture Quick Guide**\n\nMaterials:\n\n1) Reservoir (Generally around 1 gallon per plant)\n\na) You tend to lose around 100 ml per plant per day, or around 0.7 L ( .18 gallons)\n\nper plant per week.\n\nb) Opaque material\n\n2) Floating raft to hold plants (generally 1”-thick insulation board)\n\na) A bucket lid will do, but it will not go down with the water so you need to be",
+    "char_count": 656
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 158,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ndo, but it will not go down with the water so you need to be vigilant about making sure the roots are in contact with the nutrient solution\n\nb) Plants spaced close to 3.5 plants per square foot (that’s around 6.5 inch spacing\n\nbetween plants for lettuce/kale; or use 4-inch spacing for basil and other herbs)\n\n3) Airstone connected to a pump (constantly running)\n\n4) Light (as per lighting section)\n\na) Possibly light frame and adjustable cables\n\nb) Timer\n\n5) Nutrient solution (as per nutrient solution section)\n\n6) Rockwool (typically 1 inch cubes)\n\n7) Seeds",
+    "char_count": 658
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 159,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nsection)\n\n6) Rockwool (typically 1 inch cubes)\n\n7) Seeds Construction and Plant Care:\n\n1) Construct raft and/or drill holes appropriately spaced in raft or bucket lid\n\n2) Construct frame for light if needed\n\n3) Fill reservoir with nutrient solution and place airstone in solution\n\n4) Place seedlings in the raft or lid making sure that the bottom of media is in contact with\n\nthe nutrient solution.\n\n5) Check pH and EC 1-2 times per week if possible\n\n6) Top off nutrient solution every 1-2 weeks or as needed\n\n**6. NFT Systems**",
+    "char_count": 626
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 160,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nsolution every 1-2 weeks or as needed\n\n**6. NFT Systems** NFT stands for Nutrient Film Technique and refers to plant roots being bathed in a thin\n\nlayer (film) of nutrient solution that is recirculated. NFT systems consist of a reservoir to hold\n\nnutrients, a channel to hold plants, a pump and tubing to transport nutrients to and from the\n\nreservoir, and of course some sort of light. NFT is great for leafy greens and herbs, however you\n\nwould not want to grow a vine crop such as a tomato plant in an NFT system because the long",
+    "char_count": 630
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 161,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncrop such as a tomato plant in an NFT system because the long term roots would likely clog up the channel and disrupt the flow of nutrients in addition to\n\ncreating anaerobic (low oxygen) conditions for the roots (Resh, 2013).\n\n**6.1 Kits**\n\nThere are fewer NFT kits available for sale. Here is one from cropking.\n\n1. [https://www.cropking.com/catalog/nft-introductory-systems/nft-desktop-system](https://www.cropking.com/catalog/nft-introductory-systems/nft-desktop-system)\n\nIn addition, most of these systems tend to be quite expensive and you still need to factor in",
+    "char_count": 667
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 162,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ntend to be quite expensive and you still need to factor in components that not all kits have such as lighting pumps and structural components.\n\n**6.2 DIY Materials**\n\nThe first component you will want to acquire is the reservoir. Just like with the deep\n\nwater culture reservoir you will want some sort of dark container that light can’t penetrate\n\nthrough so that there is less of a chance of algal growth. In terms of the volume, the larger\n\nreservoir you have the better buffering capability you will have for pH, EC, and temperature. In",
+    "char_count": 638
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 163,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncapability you will have for pH, EC, and temperature. In addition, you will tend to lose around 100 ml of water per day per plant (based on research done\n\non head lettuce), so you will want to think about how often you will have to refill the reservoir\n\nwhen considering the size (Ciolkosz et. al, ). A lid is ideal and can easily be fashioned out of an\n\ninsulation board if it doesn’t come with the reservoir container.\n\nThe next component to think about is the pump and tubing that goes along with it. A",
+    "char_count": 603
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 164,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthink about is the pump and tubing that goes along with it. A pump and tubing can usually be found with a quick Amazon search. When choosing a pump you\n\nwill want one that is able to pump at least 10L an hour per plant in your system (Jackson, 1979).\n\nAnother factor to consider is the height you will need to pump the liquid up (you will often have\n\nto pump water from a reservoir up to a channel).\n\nWhen it comes to tubing, there are typically two types: 1) a wider tube which serves as",
+    "char_count": 586
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 165,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthere are typically two types: 1) a wider tube which serves as the manifold tube that carries water from the reservoir to alongside the channels (typically\n\n0.5-1.0” tubing based on the number of channels) and 2) smaller tubing that supplies water from\n\nthe manifold tube to each channel - ¼” tubing that is 16 inches long (with an associated gromet\n\nthat plugs into the manifold tube) seems to work well, as narrower tubing has been found to\n\noccasionally clog up. Each channel is placed at a 1 to 4% slope and then drains into a return line",
+    "char_count": 640
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 166,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nis placed at a 1 to 4% slope and then drains into a return line - wide PVC piping and fittings tend to work well for the return line. These setups tend to work\n\nwell for commercial operations, or smaller home systems modeled after those set ups.\n\n**Image 41. Commercial NFT system Image 42. Commercial NFT system**\n\nIn an A frame system, there is typically one smaller tube or PVC that runs from the pump\n\nto the highest channel. Each channel is then connected with PVC piping and fittings, and a return\n\nline (usually PVC) is fashioned back to the reservoir.",
+    "char_count": 657
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 167,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nreturn\n\nline (usually PVC) is fashioned back to the reservoir. **Image 43. Homemade NFT system on an A-frame**\n\nAs far as the channel goes, it can be made from PVC piping or sourced from a\n\nhydroponics supplier like cropking, amhydro, or farmtek. These channels are generally not that\n\nexpensive and can easily be cut to an appropriate size (and then you will glue on end caps). If\n\nyou are using PVC piping as a channel it’s important to make sure that the base of the rockwool",
+    "char_count": 576
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 168,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nit’s important to make sure that the base of the rockwool cube is in contact with the nutrient film (in the commercial channels, rockwool cubes are placed\n\ndirectly on the base of the channel to come in contact with the nutrient film). Many people\n\nchoose to use net cups to hold the media the seed has grown in. This can work, but once again\n\nyou need to make sure that you choose the correct diameter PVC piping so that the bottom of the\n\nnet cup is touching the nutrient film.\n\nThe channels should have a slope of 1-4% (Mattson and Leith, 2019). For example, over",
+    "char_count": 664
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 169,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\na slope of 1-4% (Mattson and Leith, 2019). For example, over an 8’ (96-inch) channel length there should be a difference in height of 1 to 4 inches between the\n\nwater supply side and drain side. Flat channels will promote stagnant water, especially when\n\nroots grow. This can lead to both hypoxic (low oxygen) and low nutrient conditions for some\n\nplants. The usual commercial spacing for holes in the channel is 8 inches apart (Resh, 2013).\n\nThis works well for plants like head lettuce where you can get an 8inch or more diameter plant.",
+    "char_count": 636
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 170,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nhead lettuce where you can get an 8inch or more diameter plant. Spacing is important because it allows for airflow between plants which is important in\n\nprotecting against pests and pathogens However, at the home level I have found that 4 inch\n\nspacing can be useful for smaller herbs so as to get more plants in a smaller space. If you choose\n\nto then grow a plant like lettuce, you can plant in every other hole. Support for channels can\n\ncome in the form of a wood frame, shelving, or even PVC piping. Common supports include A\n\nframes and simple tables.",
+    "char_count": 655
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 171,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\npiping. Common supports include A\n\nframes and simple tables. Lastly, as always you need a light source (as per the lighting section)!\n\n**6.3 DIY Construction**\n\n1. I would construct the frame for the channels first. For larger projects this could be an A\n\nframe or a support table. For smaller indoor systems, it’s possible a shelf or desktop will\n\ndo. Make sure to think about where you are going to put the reservoir and how piping and\n\ntubing will go to and from the reservoir.\n\n2. Place the pump in the reservoir and connect pump tubing to the higher end of the",
+    "char_count": 663
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 172,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthe reservoir and connect pump tubing to the higher end of the channel. If you make your own channels you will likely have to drill a hole into the\n\nchannel for the tubing.\n\n3. Fabricate a return line back to the reservoir. PVC piping works well for return lines.\n\n4. If the system is indoors you will need to hang lights overhead. Once again, you may have\n\nto build a cage for the lights to hang from. Small pulleys/cables are a great way to hang\n\nlights if you want to hang them from a structure that is already in place (such as a shelf,",
+    "char_count": 638
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 173,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfrom a structure that is already in place (such as a shelf, or ceiling, etc.) but is not the correct height above the plants for the light requirements. A\n\nsearch on amazon for greenhouse light hangers should yield good results. Here is one\n\nexample:\n\n[https://www.amazon.com/Pairs-inch-Adjustable-Heavy-Hanger/dp/B07XKLLVL7/ref=sr](https://www.amazon.com/Pairs-inch-Adjustable-Heavy-Hanger/dp/B07XKLLVL7/ref=sr_1_2?dchild=1&keywords=greenhouse+light+hangers&qid=1587245411&sr=8-2)",
+    "char_count": 579
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 174,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nchild=1&keywords=greenhouse+light+hangers&qid=1587245411&sr=8-2) [_1_2?dchild=1&keywords=greenhouse+light+hangers&qid=1587245411&sr=8-2](https://www.amazon.com/Pairs-inch-Adjustable-Heavy-Hanger/dp/B07XKLLVL7/ref=sr_1_2?dchild=1&keywords=greenhouse+light+hangers&qid=1587245411&sr=8-2)\n\nExample of homemade NFT System\n\n**Image 44. Shelving NFT system Image 45. Shelving NFT system**\n\nIn this example, a shelving NFT system was created from an old AmHydro NFT channel,\n\n2 homemade shelving units, PVC piping, a garden planter as a reservoir, insulation board as the",
+    "char_count": 662
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 175,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\na garden planter as a reservoir, insulation board as the reservoir cover, and a Monios T5 LED light. A 95 GPH fish tank pump was used to pump the\n\nnutrient solution, however we had it on the lowest setting which was 35 GPH, a better flow rate\n\nfor the number of plants in the system. The AmHydro channel was cut to 2 feet in length and\n\nadditional holes were drilled in between existing holes due to the home nature of this system, and\n\nthe desire to grow basil and other herbs. However, if lettuce was to be grown, every other hole",
+    "char_count": 630
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 176,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nherbs. However, if lettuce was to be grown, every other hole (or the original holes) would have to be used in order to achieve good spacing. The pump came\n\nwith enough tubing to reach the channel so no extra was purchased. ½ inch PVC piping and\n\nfittings were used to create a return to the reservoir (if you have multiple channels or longer\n\nchannels you’ll need a wider drain return).\n\n**6.4 Mechanical Maintenance/Troubleshooting**\n\nThe main sources of problems in a NFT system comes in the form of leaks which most",
+    "char_count": 616
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 177,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nproblems in a NFT system comes in the form of leaks which most frequently occur in piping and piping connections. To help stop leaks you can use PVC cement,\n\njust make sure it is not a part you want to take apart later. Another option is to tightly screw in\n\nconnections, using teflon tape. In addition to looking for leaks, make sure to check the system for\n\nclogs every once in a while.\n\n**6.5 NFT Quick Guide**\n\nMaterials:\n\n1) Reservoir with lid (the larger the size the better buffering capabilities for pH, EC, and\n\ntemperature)",
+    "char_count": 631
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 178,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthe better buffering capabilities for pH, EC, and\n\ntemperature) a) You will tend to lose around 100 ml of water per plant per day due to\n\nevapotranspiration (useful for thinking about size and how often you would like to\n\nrefill).\n\n2) Pump and tubing (with the ability to pump 10 L per hour per plant)\n\na) If you have multiple channels you will have a wider manifold tube (½-1”) and\n\nthen a gromet and small tubing (¼” to supply water from the manifold tube to\n\neach channel).\n\n3) Return tubing and/or PVC piping and couplings",
+    "char_count": 624
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 179,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nchannel).\n\n3) Return tubing and/or PVC piping and couplings 4) Channel (1-4% slope, 8 inch hole spacing for lettuce, 4 inch for smaller herbs)\n\n5) Frame for channels to be placed\n\n6) Light and timer (as per lighting section)\n\n7) Planting media (rockwool)\n\n8) Nutrient solution (as per nutrient solution section)\n\nConstruction and Plant Care:\n\n1) Construct frame for channels, think about space for reservoir and tubing\n\n2) Construct fixture for light if indoors\n\n3) Construct return flow to reservoir",
+    "char_count": 598
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 180,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfor light if indoors\n\n3) Construct return flow to reservoir 4) Place pump in reservoir and connect to channels (leave running throughout until harvest)\n\n5) Place rockwool with seeds in channels making sure that the bottom of the rockwool is in\n\ncontact with the flow of nutrient solution.\n\n6) Check pH and EC if you are able 1-2 times per week\n\n7) Top off nutrient solution every 1-2 weeks or as needed\n\n**7. NFT vs. Deep Water culture**\n\nBoth of these systems are great for home hydroponic use, and both can be used to grow",
+    "char_count": 622
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 181,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nare great for home hydroponic use, and both can be used to grow leafy greens and herbs. In fact, in a comprehensive study comparing the two systems sides by\n\nside (Walters and Currey, 2015) there were no major differences in crop yield from one system to\n\nanother. They recommend that the decision for which system to use should be based on the “ease\n\nof maintenance, and ergonomics” (Walters and Currey, 2015). As noted above, be aware that\n\nNFT requires more maintenance due to potential for leaks, and if channels run dry (due to leaks",
+    "char_count": 636
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 182,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto potential for leaks, and if channels run dry (due to leaks or electrical outage) plants can quickly experience drought stress. Deep water culture has less\n\nchance for leaks, and if the electricity goes out the plant roots are still bathed in nutrient solution.\n\nIn short, choose a system that best fits the area you would like to put it and the degree of risk\n\ntolerance you have related to leaks and electricity outages.\n\n**8. Useful Equipment**\n\nHere is a list of tools and equipment I found useful when constructing my DWC systems.",
+    "char_count": 635
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 183,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nand equipment I found useful when constructing my DWC systems. You should keep a list of the equipment you find useful and what it is useful for, that way when a\n\nnew problem arises you might have an idea about what equipment could be helpful!\n\n1. Drill with up to 1-inch wide drilling attachments.\n\na. Screws tend to work very well for support frames. Be sure to pre-drill screw\n\nholes.\n\n2. Saw (Hacksaws tend to work well with PVC and plastic channels)\n\n3. Box cutter (useful for cutting insulation board without the mess of a saw)\n\n4. Tape measure\n\n5. Level",
+    "char_count": 658
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 184,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nboard without the mess of a saw)\n\n4. Tape measure\n\n5. Level 6. Square (extremely useful for cutting insulation float boards and cutting wood for\n\nsupports)\n\n7. Sharpie (for marking insulation) and pencil (for wood and paper drawings)\n\n8. Safety equipment (Gloves, Goggles, Respirator)\n\n**9. Total System Cost Examples and Crop Costing**\n\nWhen thinking about the total cost of your system there are several components that you\n\nneed to think about including material costs, electricity costs, and opportunity costs (i.e. what",
+    "char_count": 622
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 185,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncosts, electricity costs, and opportunity costs (i.e. what else you could spend your time and money on instead of building and maintaining a system). It\n\nshould be expected that building and maintaining a system might not be as cheap as you expect.\n\nFor example, lighting fixtures can cost a fair amount, and you still have to pay to run those\n\nlighting fixtures.\n\nHowever, it’s also important to think about all the returns you will get from a hydroponic\n\nsystem. The first and most obvious return is actual produce, and that’s not too shabby. A",
+    "char_count": 644
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 186,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nobvious return is actual produce, and that’s not too shabby. A hydroponic lettuce head at the store will cost you around $2.50 (Wegmans, 2020). So if you were\n\nto buy a head of hydroponic each week of the year, it would cost you around $130. In addition,\n\nyou might want to think about the positive effects of having fresh produce and greenery in your\n\nhouse all year long. There are many studies showing how greenery makes people happy and can\n\nimprove relaxation (Grinde and Patil, 2009). And lastly, think about the skills and knowledge",
+    "char_count": 637
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 187,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nPatil, 2009). And lastly, think about the skills and knowledge you will gain from this type of project. First, you might gain some handy work skills, and\n\nsecond, a hydroponic system could spark your interest in some field related to the project. Maybe\n\nyou will find out you really like plant science, or maybe you realize that greenhouse management\n\nis something you enjoy. Maybe building a system will inspire you to do more research into\n\nsustainable design and engineering, or maybe you will decide to take up gardening because you",
+    "char_count": 634
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 188,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nor maybe you will decide to take up gardening because you want some colorful plants too! It’s certainly worth thinking about all the benefits of undertaking\n\na project like this that may not have exact monetary values.\n\nAnd now for some examples:\n\n1) Small DWC system with HPS light as described in section 5.2 and 5.3 (DIY DWC\n\nsystem) (2 ft^2 growing area, 6 heads of lettuce, 35 day crop cycle, target DLI = 15\n\nmol/(m^2 day)).\n\na) Material Costs: (There could be a range in prices depending on what you buy, the",
+    "char_count": 613
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 189,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncould be a range in prices depending on what you buy, the prices listed here are of the specific items I used in my experiments unless\n\notherwise noted)\n\ni) 150W HPS light ($100.95)\n\nii) Timer ($12.99)\n\niii) Light Hangers ($12.59 for 4)\n\niv) Restaurant Bussing Tub as the reservoir ($17.34)\n\nv) Insulation board for plant floats ($5.98 for 2ft x 2ft panel at home depot)\n\nvi) Air Pump ($20.99)\n\nvii) Fertilizer ($45.45) (General Hydroponics Flora Series)\n\nviii) pH up and down ($18.59)\n\nix) Rockwool ($19.31 for 200 cubes)",
+    "char_count": 620
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 190,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\npH up and down ($18.59)\n\nix) Rockwool ($19.31 for 200 cubes) x) Seeds ($11.25 for 250 seeds from Johnny's seeds)\n\nxi) Wood for light frame (Let’s say you need 30 ft: around $9)\n\nxii) Miscellaneous (let’s say $20)\n\nb) Electrical Costs (For one year based on an average NY state cost of $0.21 per\n\nkWh, and a goal of DLI = 15 mol/(m^2 day))\n\ni) 150W HPS Light ($172) (running for 15 hours a day)\n\nii) 1W Air pump ($1.84) (running continuously, 24 hours a day)\n\nIn total, this comes to $294.44 for materials, and $173.84 for electrical costs for the year.",
+    "char_count": 650
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 191,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfor materials, and $173.84 for electrical costs for the year. It’s important to realize that you will be able to use many of the components for more than one\n\ngrowing cycle. In fact, the only components you won't be able to use more than once are\n\nrockwool cubes and seeds, and in this example you would have 200 and 250 of each respectively.\n\nAll of the other materials will carry over for future crop cycles. Another important thing to\n\nrealize here is that some of the major costs come from lighting and electricity. Let’s look at an",
+    "char_count": 634
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 192,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncosts come from lighting and electricity. Let’s look at an example where both the initial lighting costs and electrical costs associated with lighting are\n\nmuch less.\n\n2) Small DWC system with 40W LED Panel light. (2 ft^2 growing area, 6 heads of lettuce, 35\n\nday crop cycle, target DLI = 15 mol/(m^2 day)).\n\na) Material costs (same as before except a different light)\n\ni) 40W LED Panel light ($69)\n\nii) All else ($193.49)\n\nb) Electrical Costs (For one year based on an average NY state cost of per $0.21 per\n\nkWh, and a goal of DLI = 15 mol/(m^2 day))",
+    "char_count": 650
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 193,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nof per $0.21 per\n\nkWh, and a goal of DLI = 15 mol/(m^2 day)) i) 40W LED Panel light ($45.99) (running for 15 hours a day)\n\nii) 1W Air pump ($1.84) (running continuously, 24 hours a day)\n\nIn this case, the total for the first year is $262.49 for materials, and $47.83 for electricity\n\nfor the year. Again, it’s worth noting again that almost all of the materials will be reused for more\n\nthan one crop cycle. In addition, the cost could fluctuate based on the specific materials you buy.",
+    "char_count": 584
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 194,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncost could fluctuate based on the specific materials you buy. Furthermore, you may already have some of the materials to begin with (for example a storage\n\ncrate, wood, screws, or a timer). Or maybe you don’t need equipment to hang a light as you\n\nalready have a perfect mount!\n\nNow you might say, “Hold on one second there, Ryan. Fertilizer, pH up and down,\n\nrockwool, and seeds are not just upfront costs. We will have to replenish them at some point.\n\nHow does that affect the calculations?” And to that, I say fasten your seatbelts.",
+    "char_count": 634
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 195,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthe calculations?” And to that, I say fasten your seatbelts. Engaging some serious greenhouse math:\n\nLet’s get specific. We want to know how much the system will cost us to run per crop\n\ncycle, and even more than that, per plant. To do that we need to separate some of the initial costs\n\nout into costs that can be attributed to each plant. These will be known as direct costs, and we\n\nwill consider the Fertilizer, pH up and down, rockwool, and seeds to be direct costs (Uva et. al,",
+    "char_count": 581
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 196,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nand down, rockwool, and seeds to be direct costs (Uva et. al, 2002). The other type of cost we will need to consider is our overhead cost. In a greenhouse,\n\noverhead costs are the ones that you will be paying whether or not you are growing plants and\n\ninclude things like electricity, labor, and taxes, but we will only be looking at electricity for our\n\nhobby system (Uva et. al, 2002). You could probably consider electricity to be a direct cost in\n\nthis sort of system, but let’s get fancy and do it the right way. First, let’s look at direct costs.",
+    "char_count": 650
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 197,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nand do it the right way. First, let’s look at direct costs. - $19.31 for rockwool 200 cubes. Let’s call it $20. That means $20 $0.10\n200 _cubes_ [=] _cube_\n\n- $11.25 for 250 seeds. That means [$11.25] $0.045\n\n250 _seeds_ [=] _seed_\n\n- Fertilizer is a little more tricky, so bear with me here. Our cost for fertilizer is $45.45. It’s\n\na 3 part mix that comes in 3 bottles that are each 946 mL. That means there is a total of\n\n2,838 mL of fertilizer. That means $45.45 $0.016 . Our specific fertilizer mix calls for 2,838 _mL_ [=] 1 _mL_",
+    "char_count": 633
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 198,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n. Our specific fertilizer mix calls for 2,838 _mL_ [=] 1 _mL_ 6mL of fertilizer per L of water. Our initial starting volume of water is 25L, and then we\n\nexpect to add 4.2L of water each week (for 6 heads of lettuce) starting week 2 (see\n\nprevious sections), and that means for a 5 week growing cycle we expect to have to add\n\nan additional 16.8 L of water. This brings us to a total of 41.8 L of water. That means we\n\nwill use 41.8 _L_ _of_ _water_ × 6 _ml_ _of_ _fertilizer_ = 250.8 _ml_ of fertilizer per cycle. We know that _L_ _of_ _water_",
+    "char_count": 642
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 199,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n_ml_ of fertilizer per cycle. We know that _L_ _of_ _water_ our fertilizer costs $0.016 per mL so, 250.8 mL $0.016 = $4.01 for fertilizer per crop ×\n\ncycle. If we break that down even further to each plant we have ($4.01)/6 plants = $0.668\n\nper plant. Thanks for sticking with me. If you are still reading, I’m proud of you.\n\n- pH up and down is also quite tricky because it’s very unclear how much of the pH buffer\n\nyou will have to use. It really depends on your plants, your growing conditions, and the",
+    "char_count": 603
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 200,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nreally depends on your plants, your growing conditions, and the water source you have. So for this calculation, we are going to assume that for some\n\nreason you have to buy a new kit each year. To calculate the pH buffer cost per crop\n\n(based on the explanation above), we need to know it’s cost per crop cycle. In our\n\nspecific case, there are approximately 10.4 crop cycles per year (365 days 35 ÷\n\ndays/crop cycle = 10.4 crop cycles). That means each crop cycle will cost $18.59/10.4\n\ncrop cycles = $1.79 per crop cycle. To calculate the cost per plant we divide $1.79 by 6",
+    "char_count": 674
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 201,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncycle. To calculate the cost per plant we divide $1.79 by 6 to get $0.0298 which we will call $0.30.\n\n- So our total direct cost per plant = $0.10 (rockwool) + $0.045 (seed) + $0.668 (fertilizer)\n\n+ $0.30 (pH up and down) = $1.11.\n\nNow let’s move to our overhead costs. In our case, it’s just electricity. When calculating\n\noverhead costs, it’s important to understand the concept of the square foot week (SFW). The\n\nsquare foot week is a concept that helps us to transfer our yearly overhead costs to per plant",
+    "char_count": 609
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 202,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nhelps us to transfer our yearly overhead costs to per plant costs. The basic idea is that you take the amount of square feet you are using to grow plants, and\n\nthen multiply that by the amount of weeks you could be growing them (Uva et. al, 2002). So for\n\nour example, we have 2 square feet of growing area and we could grow our crops all year round,\n\nor 52 weeks (If we had done our electricity costs for half the year then we would say 26 weeks).\n\nThis means we have (2 square feet) (52 weeks) = 104 square foot weeks (SFW). Once you ×",
+    "char_count": 635
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 203,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfeet) (52 weeks) = 104 square foot weeks (SFW). Once you × know your SFW, you take your overhead costs and divide them by your SFW to get a price per\n\nSFW. Okay, now back to some greenhouse math.\n\n- Our electricity (as noted before) costs $47.83 yearly.\n\n- Now we divide our yearly cost by our SFW. [$47.83]\n\n[$47.83] [$0.46]\n\n104 _SFW_ [=] _SFW_\n\n[$0.46]\n\n_SFW_\n\nThat means it is costing us $0.46 per square foot each week to run our system no matter\n\nwhat. In terms of how to use this information to calculate our overhead cost per plant we think",
+    "char_count": 646
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 204,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ninformation to calculate our overhead cost per plant we think about it like this. We know that each square foot costs $0.46 a week, and we know we will be\n\ngrowing 6 heads of lettuce for 5 weeks, and we know that 6 heads of lettuce per 2 square feet\n\nequals 3 heads of lettuce per one square foot. So to find out the overhead cost per plant per cycle\n\n_SFW_ $0.46 × 5 _weeks_\n\n= $\n\nwe do _SFW_ 3 _heads_ = $0.77 per head of lettuce in overhead costs per growth cycle. We are almost _square_ _foot_\n\nthere! I hope you are still with me!",
+    "char_count": 633
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 205,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nalmost _square_ _foot_\n\nthere! I hope you are still with me! Let’s now add our direct cost per head of lettuce, which was $1.11, and overhead cost per\n\nhead of lettuce, which was $0.77, to get a total of $1.88 per head of lettuce. Given that we have\n\n6 heads of lettuce, let’s multiply $1.88 by 6 to get $11.28. This means our 5 week crop of lettuce\n\ncost us $11.28 in direct and overhead costs.\n\nNow, I know what you are thinking. You are thinking, “Ryan, that seems like a lot of",
+    "char_count": 579
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 206,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nare thinking. You are thinking, “Ryan, that seems like a lot of extra work when all I had to do was calculate the monthly electricity cost and add that to the\n\ndirect costs for 6 plants to find out the monthly cost of the system.” Yes, you are correct. BUT,\n\nnow you know exactly where all the costs are coming from. In addition, you can see which ones\n\nare the most expensive (I’m looking at you fertilizer and electricity) so you know that’s where\n\nyou need to be the most informed consumer. Also, we just found out that even though the system",
+    "char_count": 643
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 207,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nconsumer. Also, we just found out that even though the system may have been expensive to build, it still costs us less (in this specific system) to grow\n\nhydroponic lettuce than to buy it from the store (our $1.88 per head compared to the store’s\n\n$2.50 a head)!\n\nLastly, using this information, we can calculate how long it would take us to “break\n\neven” in terms of the amount we are saving per head of lettuce produced. Now I will warn you\n\nit’s going to seem like a long time because we are only saving $0.62 per head, and we have to",
+    "char_count": 635
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 208,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ntime because we are only saving $0.62 per head, and we have to make up all of our initial costs. To calculate the number of crop cycles it will take us to “break\n\neven” we want to see at what point our expenditures will equal our theoretical gross profit from\n\nlettuce. We said before that a head of hydroponic lettuce at the store will cost $2.50, so we will\n\nsay that our crop of 6 lettuce heads is worth $15.\n\n$ _spent_ _U_ _pfront_ _cost_ + ( _number_ _of_ _cycles_ ) = [$ ] _[gained]_ ( _number_ _of_ _cycles_ ) _crop_ _cycle_ _crop_ _cycle_\n\nUpfront costs = $167.81",
+    "char_count": 669
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 209,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n) _crop_ _cycle_ _crop_ _cycle_\n\nUpfront costs = $167.81 C = number of crop cycles\n\n$ _spent_ $11.28 _crop_ _cycle_ [= ]\n\n_crop_ [$ ] _[gained]_ _cycle_ = $15\n\n167.89 $ + $11.28( _C_ ) = $15( _C_ )\n\n_C_ = $167.89 = 45.13 _crop_ _cycles_ $3.72\n\nGiven that our specific crop cycle is 35 days, this means it will take 46 35 days = 1,610 ×\n\ndays, or a little under 4 and a half years to “break even”. You can find a helpful spreadsheet for\n\nthese calculations here:",
+    "char_count": 559
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 210,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncan find a helpful spreadsheet for\n\nthese calculations here: [https://blogs.cornell.edu/cornellcea/files/2020/05/Useful-Home-Hydroponics-Excel-Sheets.xlsx](https://blogs.cornell.edu/cornellcea/files/2020/05/Useful-Home-Hydroponics-Excel-Sheets.xlsx)\n\nFirst, I would like to congratulate you for sticking with me and getting all the way to the\n\nend of that calculation. It was a lot of work, and in the end we learned it’s gonna take a while to\n\nbreak even for this set up. But it was a fun journey! Once again, I would like to point out that",
+    "char_count": 639
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 211,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nwas a fun journey! Once again, I would like to point out that these calculations were for my specific set up. Your setup and costs might be a little different,\n\nand as we demonstrated there could be lots of ways to save money (such as energy efficient\n\nLEDs, cheaper powdered fertilizer, and using materials you have available) and optimize\n\nproduction (for example my bussing tub system was 2 ft^2, but the lights - especially the HPS\n\nwould be good for lighting 4 ft^2 ), and now you have the tools to figure out what your costs will\n\nbe.",
+    "char_count": 638
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 212,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nnow you have the tools to figure out what your costs will\n\nbe. I would like to point out that in this example we were only thinking about growing\n\nlettuce. You could throw other herbs into the mix that have higher market values than lettuce\n\nsuch as mint or basil, and these other herbs could be spaced closer together which would change\n\nsome of the calculations (for the better) (and you now have the ability to crop cost all sorts of\n\nherbs and setups!).\n\nAnd of course, let’s consider for a moment the reasons for building such a system. Let’s",
+    "char_count": 645
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 213,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nfor a moment the reasons for building such a system. Let’s be honest, the reason you are building a small DWC system probably isn’t to grow enough food\n\nto stop shopping at the supermarket, and it probably isn’t to grow the cheapest lettuce possible. If\n\nthat’s the case, then you should probably just go to the supermarket and by iceberg lettuce (or\n\ngrow outdoors in summer time and not have lettuce in winter). Hopefully, your reasons have\n\nsomething to do with it being cool to be able to grow fresh greens in your house throughout the",
+    "char_count": 637
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 214,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nto be able to grow fresh greens in your house throughout the entire year and being able to pick them whenever you want! In addition, it’s pretty fun to know\n\nthat you built the whole system yourself and now you are producing fresh awesome tasting food!\n\nAnd, as I mentioned before, there are many studies that show having plants indoors improves\n\nhappiness. Especially greenery you can eat!\n\n**10. Diseases, Insects, and other Disorders**\n\nAs a home grower, the problems you are likely to have with diseases and insects should",
+    "char_count": 624
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 215,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nyou are likely to have with diseases and insects should be much smaller than in a commercial setting. For this reason, it does not make sense to use\n\npesticides, but rather cultural control practices - mainly cleanliness and sanitation of systems. A\n\nclean system with the removal of any infected plant material should be enough to keep pests and\n\ndiseases at bay at the home level.\n\nWhen looking at disorders of plants, it’s important to know whether what you are seeing",
+    "char_count": 569
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 216,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nof plants, it’s important to know whether what you are seeing is caused by biotic or abiotic factors. Biotic disorders are ones caused by pathogens and insects,\n\nand abiotic disorders are ones caused by environmental conditions such as a lack of nutrients or a\n\nlack of light. Biotic disorders tend to have patchy distribution throughout crops (both individual\n\nplants and groups), and abiotic disorders tend to have uniform distribution throughout crops.\n\nThe list of disorders below is by no means comprehensive, but should give a good idea of",
+    "char_count": 643
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 217,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nis by no means comprehensive, but should give a good idea of the main issues a home hydroponic grower could face.\n\n_Definition of terms_ :\n\nChlorosis: yellowing of leaves\n\nNecrosis or Necrotic material: Dead leaf material\n\nMarginal: On the edge of the leaves\n\nInterveinal: between the veins\n\n**10.1 Common Diseases**\n\n1. _Powdery Mildew_ is a fungal disease that will appear as a white powdery substance on leaf\n\nsurfaces (typically the upper surface of leaves)and can often cause leaf wilting. It is found\n\non a variety of leafy greens and herbs.",
+    "char_count": 645
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 218,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nwilting. It is found\n\non a variety of leafy greens and herbs. **Image 46. Powdery Mildew on lettuce**\n\n2. _Basil Downy mildew_ is a fungus that can be found on basil plants. It is identified by\n\nchlorotic leaves, spots of necrosis, and spores on the underside of the leaf. Sometimes\n\nthis pathogen is confused for a nutrient deficiency which is why it’s important to check\n\nthe underside of the leaves for spores (McGrath, 2019).\n\n**Image 47. Basil Downy Mildew Chlorosis.**\n\n**Image 48. Basil Downy Mildew spores on the underside of the leaf.**",
+    "char_count": 643
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 219,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\n48. Basil Downy Mildew spores on the underside of the leaf.** 3. _Botrytis (Gray Mold)_ is a fungus found on a variety of leafy greens and herbs, diagnosed\n\nby brown/gray fuzzy growth and browning stems and leaves.\n\n**Image 49. Botrytis on lettuce.**\n\n4. _Pythium Root Rot_ is a water mold especially common on spinach, basil, and arugula\n\nroots but occasionally also on lettuce. It is diagnosed by brown and discolored roots. Due\n\nto the decline of the root system it can also cause leaf wilting and chlorosis. One control",
+    "char_count": 621
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 220,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nit can also cause leaf wilting and chlorosis. One control method more specific to Pythium is to keep water temperatures below 68℉ (Thompson\n\net. al, 1998).\n\n**Image 50. Discolored roots from Pythium root rot.**\n\n**Image 51. Wilting from Pythium root rot**\n\n5. _Sclerotinia blight (white mold_ ) is a fungus that often affects lettuce and is diagnosed by\n\nsoft rot, white mycelium, and wilting of plants.\n\n**Image 52. Sclerotinia blight on lettuce** **Image 53. Sclerotinia blight on lettuce**\n\n**10.2 Pathogen Control Methods**",
+    "char_count": 625
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 221,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nblight on lettuce**\n\n**10.2 Pathogen Control Methods** These control methods will work for most of the pathogens mentioned. First, when\n\nbuying seed, try to get cultivars that are resistant to diseases like downy and basil downy mildew\n\n(McGrath, 2019). Second, make sure to keep the system clean. This means remove any debris\n\nand dead material from the system and sanitize the system after each growth cycle (Raudales,\n\n2018). As soon as any pathogen is detected be sure to remove any infected plants (and in the case",
+    "char_count": 617
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 222,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ndetected be sure to remove any infected plants (and in the case of root rot - it can rapidly spread to all the plants that share the same water so consider halting\n\ngrowth now, sanitizing, and restarting with new plants and new nutrient solution). Finally, try to\n\nmaintain low humidity and good airflow through proper spacing between plants. Some\n\ncommercial growers will use a preventative fungicide to help stop infections, however this is not\n\nvery realistic for a home grower.\n\n**10.3 Common Pests**",
+    "char_count": 602
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 223,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nnot\n\nvery realistic for a home grower.\n\n**10.3 Common Pests** 1. _Shore Flies_ are common in commercial greenhouses and could show up in a home\n\nsystem. Shore flies are small black flies with 5 white spots on their wings. They feed on\n\nalgae and can leave frass (droppings) on leaves. They are mostly a nuisance for people,\n\nbut have also been known to transmit root diseases between plants.\n\n**Image 54. Shorefly**\n\n2. _Fungus gnats_ are a common small mosquito like fly that feed on naturally occurring",
+    "char_count": 602
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 224,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ncommon small mosquito like fly that feed on naturally occurring microbes in the root zone. They are mostly a nuisance for people, but have also been\n\nknown to transmit root diseases between plants, and at high levels they can damage the\n\nroots and base of the stem by feeding on them.\n\n**Image 55. Fungus gnat**\n\n**10.4 Pest Control Methods**\n\nShore Flies are more common when algae is around as the larvae love feeding on algae in\n\nrockwool cubes. Fungus gnats are more of a problem with soilless potting mixes such as coco",
+    "char_count": 622
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 225,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nare more of a problem with soilless potting mixes such as coco coir cubes. We suggest the following methods for a home grower trying to control shore flies and\n\nfungus gnats. Try to keep algae to a minimum by keeping the system clean, sanitizing it between\n\ngrowth cycles, and blocking the nutrient solution from light as much as possible. This should\n\neliminate the food source for shore flies. Fungus gnat larvae thrive in wet root-zones - for\n\nexample if you are starting seeds in coir cubes, avoid overwatering of the cubes so the rootzone",
+    "char_count": 641
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 226,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nin coir cubes, avoid overwatering of the cubes so the rootzone does not stay oversaturated with water. In addition, general cleanliness of the system, removing\n\nany debris and dying leaves, and sanitizing between crop cycles is a great way to reduce pests.\n\nCommercial growers will often use bio controls such as predatory mites and beneficial\n\nnematodes, however this probably isn’t not be needed for a small home system.\n\n**10.5 Physiological Disorders**\n\n1. _Leaf tip burn_ is a disorder that often affects head lettuce especially when it is approaching",
+    "char_count": 654
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 227,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\noften affects head lettuce especially when it is approaching maturity with a compact head forming. The symptoms include marginal leaf necrosis and\n\ndistortion of young leaves at the center of the head. Tip burn is caused by a lack of\n\ncalcium most often caused by poor plant uptake and inadequate supply of calcium to the\n\nyoung leaves due to poor transpiration, or a lettuce head nearing maturity that is growing\n\ntoo fast (such as under too high light levels). Tip burn is not normally caused by a lack of",
+    "char_count": 605
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 228,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nlight levels). Tip burn is not normally caused by a lack of calcium in the nutrient solution (Mattson, 2016). Control methods include promoting\n\ngood air flow (possible with a fan), and decreasing the amount of light supplied to the\n\nplant (increase light height or decrease running time).\n\n**Image 56. Leaf Tip Burn in lettuce**\n\n2. _Outer leaf edge necrosis_ is mostly found on lettuce and shows symptoms of necrotic\n\nspots on older leaves. This disorder is caused by a leakage of water and salts often due to",
+    "char_count": 609
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 229,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\ndisorder is caused by a leakage of water and salts often due to high relative humidity during the night. Control methods include promoting good airflow,\n\navoiding high night time humidity, and also avoiding a high salt content (EC) in the\n\nnutrient solution.\n\n**Image 57. Outer leaf edge necrosis in lettuce.**\n\n_3._ _Bolting_ is the early development of the flower stalk and is typically caused by excessive\n\nair temperature. Both lettuce and spinach are sensitive to it - and for spinach a long day",
+    "char_count": 598
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 230,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nand spinach are sensitive to it - and for spinach a long day length (lights on longer than 12 hours) also promotes early bolting. Keeping the air\n\ntemperature below 80 ℉, or keeping the water temperature below 68 ℉ are both\n\neffective control measures.\n\n**Image 58. Bolting in Lettuce** **Image 59. Bolting in Spinach**\n\n_4._ _Stringy and Stretched Plants_ are most likely due to a lack of light (or an overcrowding of\n\nplants). Under low light conditions, plants naturally grow tall and stringy in an attempt to",
+    "char_count": 610
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 231,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nplants naturally grow tall and stringy in an attempt to grow above their neighbors to access light. If you see these types of plants they need\n\nmore light!\n\n**Image 60. Stretched lettuce plant lacking sufficient light**\n\n**10.6 Nutrient Deficiencies**\n\nThe first signs of nutrient deficiency in plants will often occur as discoloration (often\n\nchlorosis), distortion, or marginal necrosis of leaves (mattson). If these symptoms occur in older\n\nleaves (lower leaves), you probably have a deficiency in N, P, K, or Mg. These are called mobile",
+    "char_count": 638
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 232,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nhave a deficiency in N, P, K, or Mg. These are called mobile nutrients and thus the plant can relocate them to new growth (McCauley et. al, 2009). If\n\nsymptoms occur in the middle of the plant it is possible that you have a deficiency in S or Mo, as\n\nthese are semi-mobile nutrients. Symptoms occurring in newer leaves (towards the top of the\n\nplant), are likely to be a lack of Ca, B, or Fe. These are immobile nutrients, so if the plant isn't\n\ngetting any then there will be none for new growth (McCauley et. al, 2009).",
+    "char_count": 619
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 233,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nthen there will be none for new growth (McCauley et. al, 2009). For a commercial grower, knowing the specific nutrient deficiency is important because\n\nthey will most likely adjust their custom nutrient solution. However, at the home level, if a\n\nnutrient deficiency is to occur, it’s probably going to be an iron deficiency in the upper (newer)\n\nleaves with signs of interveinal chlorosis due to a high pH, or a more general N,P,K, or Mg\n\ndeficiency due a lack of nutrients in solution. In the case of an Iron deficiency, the best course of",
+    "char_count": 639
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 234,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nsolution. In the case of an Iron deficiency, the best course of action is to check the pH of the solution and make sure it is between 5.5-6. In the case of a\n\ndeficiency from one of the other nutrients it’s best to check the EC of the solution if you can and\n\nadjust, or in the case that the nutrient solution is several weeks old, it’s probably a good idea to\n\nmix a new nutrient solution (you can use the old nutrient solution for water other plants you may\n\nhave).\n\n**Image 61. Diagram of nutrient deficiencies.**",
+    "char_count": 614
+  },
+  {
+    "source": "Guide-To-Home-Hydroponics-For-Leafy-Greens",
+    "chunk_id": 235,
+    "text": "## water, we multiply 7.5 ml / L × 20 L = 150 ml of fertilizer is needed for a 20 liter nutrient\n\nmay\n\nhave).\n\n**Image 61. Diagram of nutrient deficiencies.** **Disclaimer: Mention of trademarks or brand names is for informational purposes**\n**only and does not imply its approval to the exclusion of other products that may**\n**be suitable.**",
+    "char_count": 343
+  }
+]
