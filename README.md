@@ -21,37 +21,31 @@ Hobbyist hydroponic growers often struggle to find quick, accurate answers to sp
 ## 🗂️ Project Structure
 
 ```
-hydroponic-rag-assistant/
+hydro_rag_assistant/
 │
 ├── data/
-│   ├── raw/              # Original downloaded files — never modified
-│   ├── processed/        # Cleaned text output from parsing scripts
+│   ├── raw/              # Original downloaded PDFs + sources.md manifest
+│   ├── processed/        # Dual-output markdown from processing pipeline
+│   │   ├── <name>.md         # Archive — full text with page markers
+│   │   └── <name>.embed.md   # Embedding-ready — cleaned and reflowed
 │   └── chunks/           # Final chunked documents ready for embedding
 │
 ├── scripts/
-│   ├── ingestion/        # Download, parse, and clean source documents
-│   ├── embedding/        # Embed chunks and ingest into ChromaDB
-│   └── eval/             # Evaluation scripts and results logging
+│   └── processing/
+│       └── process_pdfs.py   # PDF → archive .md + embedding .embed.md
 │
-├── src/
-│   ├── retriever.py      # ChromaDB retrieval logic
-│   ├── generator.py      # LLM prompt construction and generation
-│   └── pipeline.py       # End-to-end ask() function
-│
-├── eval/
-│   ├── eval_set.json     # Hand-crafted Q&A evaluation dataset
-│   ├── retrieval_results.json
-│   ├── generation_results.json
-│   └── results_log.md    # Scored baseline and iteration history
-│
-├── app/
-│   └── main.py           # FastAPI application entry point
-│
-├── .env.example          # Environment variable template
 ├── .gitignore
-├── requirements.txt
 └── README.md
 ```
+
+### Dual-Output Processing
+
+Each source PDF produces two markdown files in `data/processed/`:
+
+| Output | Filename | Purpose |
+|---|---|---|
+| **Archive** | `<name>.md` | Preserves the full extracted text with `<!-- Page N -->` markers. Useful for auditing, debugging, and traceability back to the original document. |
+| **Embedding** | `<name>.embed.md` | Aggressively cleaned version — repeated headers/footers stripped, junk tables removed, OCR artifacts normalized, reference sections pruned, paragraphs reflowed. Ready for chunking and embedding. |
 
 ---
 
@@ -59,10 +53,10 @@ hydroponic-rag-assistant/
 
 | Layer | Tool |
 |---|---|
+| PDF Parsing | `pymupdf4llm` (markdown-native extraction) |
 | Embedding Model | `sentence-transformers` (all-MiniLM-L6-v2) |
 | Vector Database | ChromaDB (local persistent) |
 | LLM | OpenAI GPT-4o-mini |
-| PDF Parsing | pdfplumber |
 | API Framework | FastAPI |
 | UI (optional) | Streamlit |
 
@@ -70,19 +64,19 @@ hydroponic-rag-assistant/
 
 ## 📚 Data Sources
 
-All source material is freely available from reputable agricultural institutions:
+All source material is freely available from reputable agricultural institutions. The full manifest with authors, years, and document types lives in [`data/raw/sources.md`](data/raw/sources.md).
 
-- **USDA PLANTS Database** — bulk plant characteristics CSV (plants.usda.gov)
-- **Cornell CEA (Controlled Environment Agriculture)** — hydroponic production guides
-- **Penn State Extension** — nutrient deficiency and pest management guides
-- **UC Davis Extension** — vegetable crop and nutrient management PDFs
-- **FAO (UN Food and Agriculture Organization)** — open crop production manuals
+| Document | Source | Author(s) | Year |
+|---|---|---|---|
+| A Guide to Home Hydroponics for Leafy Greens | Cornell Controlled Environment Agriculture (Cornell University) | Ryan Ronzoni, Neil Mattson | 2020 |
+| Growing Direct-Seeded Watercress by Two Non-Circulating Hydroponic Methods | CTAHR, University of Hawai'i at Mānoa | B. A. Kratky | 2015 |
+| Three Non-Circulating Hydroponic Methods for Growing Lettuce | CTAHR, University of Hawai'i at Mānoa | B. A. Kratky | 2009 |
 
 ---
 
 ## 🔄 The 7-Step Engineering Loop
 
-This project was built following a deliberate AI engineering methodology:
+This project is being built following a deliberate AI engineering methodology:
 
 1. **Problem Framing** — Define the user, pain point, success criteria, and failure modes before writing code
 2. **Data Collection & Preparation** — Source, parse, clean, and chunk documents with a reproducible pipeline
@@ -104,9 +98,10 @@ This project was built following a deliberate AI engineering methodology:
 ### Installation
 
 ```bash
-git clone https://github.com/nilomadison
-/hydroponic-rag-assistant.git
-cd hydroponic-rag-assistant
+git clone https://github.com/nilomadison/hydro_rag_assistant.git
+cd hydro_rag_assistant
+python -m venv .venv
+.venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
@@ -117,48 +112,34 @@ cp .env.example .env
 # Add your OpenAI API key to .env
 ```
 
-### Ingest Documents
+### Process Source PDFs
 
 ```bash
-python scripts/ingestion/parse_pdfs.py
-python scripts/embedding/ingest_chunks.py
+python scripts/processing/process_pdfs.py
 ```
 
-### Run the Pipeline
-
-```python
-from src.pipeline import ask
-
-result = ask("What is the ideal pH range for hydroponic lettuce?")
-print(result["answer"])
-print("Sources:", result["sources"])
-```
-
-### Start the API
-
-```bash
-uvicorn app.main:app --reload
-```
+This reads every PDF in `data/raw/` and writes the dual-output markdown files (archive `.md` + embedding `.embed.md`) into `data/processed/`.
 
 ---
 
 ## 📊 Evaluation
 
-The project includes a structured evaluation framework with two layers:
+The project will include a structured evaluation framework with two layers:
 
 **Retrieval Evaluation** — measures whether the correct source document appears in the top retrieved chunks for each eval question. Target: >80% hit rate.
 
 **Generation Evaluation** — measures answer correctness and plain-language quality against a hand-crafted ground truth dataset. Scored 0–2 per question.
 
-Results are logged in `eval/results_log.md` with each iteration tracked against the baseline.
+Results will be logged in `eval/results_log.md` with each iteration tracked against the baseline.
 
 ---
 
 ## 🗺️ Roadmap
 
 - [x] Problem framing and scope definition
-- [x] Data source identification
-- [x] PDF ingestion and cleaning pipeline
+- [x] Data source identification and collection
+- [x] PDF processing pipeline (dual-output: archive `.md` + embedding `.embed.md`)
+- [ ] Chunking strategy and implementation
 - [ ] ChromaDB setup and chunk ingestion
 - [ ] Retrieval and generation pipeline
 - [ ] Evaluation dataset (50–60 Q&A pairs)
@@ -172,7 +153,13 @@ Results are logged in `eval/results_log.md` with each iteration tracked against 
 
 ## 🧠 What I Learned
 
-*This section will be updated as the project progresses with key lessons from each stage of the engineering loop.*
+### PDF Parsing: `pdfplumber` → `pymupdf4llm`
+
+The initial approach used `pdfplumber` for text extraction, but it struggled with multi-column layouts, produced garbled output for complex pages, and couldn't distinguish headers/footers from body text. Switching to `pymupdf4llm` solved these issues — it handles multi-column reflow natively, strips repeated headers/footers, detects tables, and outputs clean markdown that preserves document structure for downstream chunking.
+
+### Dual-Output Processing
+
+Rather than a single cleaned output, the pipeline writes two files per source: a full-fidelity **archive** (with page markers for traceability) and an aggressively cleaned **embedding-ready** version (boilerplate stripped, OCR artifacts normalized, reference sections pruned, paragraphs reflowed). This separation keeps the audit trail intact while giving the embedding step the cleanest possible input.
 
 ---
 
@@ -184,4 +171,4 @@ MIT License — feel free to fork and adapt for your own domain.
 
 ## 🙏 Acknowledgements
 
-Source material provided by USDA, Cornell University, Penn State Extension, UC Davis, and the FAO. This project is for educational purposes and is not affiliated with any of these institutions.
+Source material provided by Cornell University (CEA) and the University of Hawai'i at Mānoa (CTAHR). This project is for educational purposes and is not affiliated with any of these institutions.
